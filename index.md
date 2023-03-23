@@ -146,7 +146,13 @@ var frout = {
               ]
             };
 
-var frout = L.geoJSON(frout).bindPopup('Le Frout');
+var froutStyle = {
+    "color": "#ff7800",
+    "weight": 5,
+    "opacity": 0.65
+};
+
+var frout = L.geoJSON(frout, {style: myStyle}).bindPopup('Le Frout');
 
 var vallees = L.layerGroup([frout]);
 
