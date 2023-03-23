@@ -21,7 +21,7 @@ var parcs = L.layerGroup([parc1, parc2]);
 
 var map = L.map('map', {
     center: [47.99483, -4.08923],
-    zoom: 10,
+    zoom: 14,
     layers: [osm, parcs]
 });
 
