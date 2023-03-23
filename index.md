@@ -4,6 +4,7 @@ classes: wide
 author_profile: false
 title: Plan Paysage Quimper
 ---
+
 <div id="map"></div>
 
 <script>
