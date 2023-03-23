@@ -3,7 +3,6 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins	
 gem "minimal-mistakes-jekyll"
 gem "jekyll-include-cache"
-gem "jekyll-leaflet"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -16,4 +15,5 @@ gem "jekyll-leaflet"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
+gem "jekyll-leaflet"
 end
