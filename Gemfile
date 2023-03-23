@@ -15,5 +15,5 @@ gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
-gem "jekyll-leaflet"
+    gem "jekyll-leaflet"
 end
