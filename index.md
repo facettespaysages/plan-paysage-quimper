@@ -14,8 +14,8 @@ var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
 });
 
-var parc1 = L.marker([48.0105328,-4.1174417]).addTo(map).bindPopup('Parc du Manoir des Salles'),
-    parc2 = L.marker([47.9980852,-4.112518]).addTo(map).bindPopup('Jardin de la Retraite');
+var parc1 = L.marker([48.0105328,-4.1174417]).bindPopup('Parc du Manoir des Salles'),
+    parc2 = L.marker([47.9980852,-4.112518]).bindPopup('Jardin de la Retraite');
 
 var parcs = L.layerGroup([parc1, parc2]);
 
