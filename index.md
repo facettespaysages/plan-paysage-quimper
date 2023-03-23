@@ -8,12 +8,13 @@ title: Plan Paysage Quimper
 <div id="map"></div>
 
 <script>
-    var map = new L.Map("map", {
-        center: new L.LatLng(47.99483, -4.08923),
-        zoom: 14,
-        providerBasemap: "OpenTopoMap"
-    });
+var map = L.map('map').setView([47.99483, -4.08923], 14);
 
-    var layer = new L.StamenTileLayer("toner-lite");
-    map.addLayer(layer);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+L.marker([47.99483, -4.08923]).addTo(map)
+    .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
+    .openPopup();
 </script>
