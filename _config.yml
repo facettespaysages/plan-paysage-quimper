@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Plan Paysage Quimper"
+title                    : "Plan de paysage de Quimper"
 title_separator          : "-"
-name                     : "Plan Paysage Quimper - Facettes Paysages"
-description              : "Plan Paysage Quimper - Facettes Paysages"
+name                     : "Plan de paysage de Quimper - Facettes Paysages"
+description              : "Plan de paysage de Quimper - Facettes Paysages"
 url                      : "https://pocman.github.io"
 baseurl                  : "/plan-paysage-quimper"
 repository               : "pocman/plan-paysage-quimper" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -260,3 +260,9 @@ defaults:
       comments: true
       share: true
       related: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
