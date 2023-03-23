@@ -145,8 +145,6 @@ var frout = {
                 }
               ]
             };
-            
-.addTo(map);
 
 var frout = L.geoJSON(frout).bindPopup('Le Frout');
 
