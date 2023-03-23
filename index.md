@@ -25,12 +25,6 @@ var map = L.map('map', {
     layers: [osm, parcs]
 });
 
-var overlayMaps = {
-    "Parcs": parcs
-};
-
-var layerControl = L.control.layers(overlayMaps).addTo(map);
-
 var frout = {
               "type": "FeatureCollection",
               "features": [
@@ -152,6 +146,17 @@ var frout = {
               ]
             };
             
-L.geoJSON(frout).addTo(map);
+.addTo(map);
+
+var frout = L.geoJSON(frout).bindPopup('Le Frout');
+
+var vallees = L.layerGroup([frout]);
+
+var overlayMaps = {
+    "Parcs": parcs,
+    "Vallées": vallees
+};
+
+var layerControl = L.control.layers(overlayMaps).addTo(map);
 
 </script>
