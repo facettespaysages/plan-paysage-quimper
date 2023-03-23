@@ -16,20 +16,20 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Étude Salariale - Paysagiste Concepteur"
+title                    : "Plan Paysage Quimper"
 title_separator          : "-"
-name                     : "Étude Salariale - Paysagiste Concepteur"
-description              : "Résultats étude salariale paysagistes concepteur dplg / Cette étude n'est pas affiliée à la FFP"
+name                     : "Plan Paysage Quimper - Facettes Paysages"
+description              : "Plan Paysage Quimper - Facettes Paysages"
 url                      : "https://pocman.github.io"
-baseurl                  : "/etude-salariale-paysagiste-concepteur"
-repository               : "pocman/etude-salariale-paysagiste-concepteur" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/plan-paysage-quimper"
+repository               : "pocman/plan-paysage-quimper" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "paysagistes-concepteurs" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -95,19 +95,19 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-129426323-1"
-    anonymize_ip         : true # true, false (default)
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Juliette Ols"
+  name             : "Facettes Paysages"
 # avatar           : "/assets/images/bio.jpg"
-  bio              : "Paysagiste conceptrice"
-  location         : "Nantes, France"
-  email            : "juliette.ols@paysagistes-concepteurs.fr"
+#  bio              : "Paysagiste conceptrice"
+  location         : "Collorec, France"
+  email            : "juliette@facettes.bzh"
 
 # Site Footer
 #footer:
