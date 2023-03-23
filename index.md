@@ -14,6 +14,11 @@ var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
 });
 
+var otm = L.tileLayer('http://a.tile.opentopomap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '© OpenTopoMap'
+});
+
 var parc1 = L.marker([48.0105328,-4.1174417]).bindPopup('Parc du Manoir des Salles'),
     parc2 = L.marker([47.9980852,-4.112518]).bindPopup('Jardin de la Retraite');
 
@@ -156,11 +161,16 @@ var frout = L.geoJSON(frout, {style: myStyle}).bindPopup('Le Frout');
 
 var vallees = L.layerGroup([frout]);
 
+var baseMaps = {
+    "OpenStreetMap": osm,
+    "OpenTopoMap": otm
+};
+
 var overlayMaps = {
     "Parcs": parcs,
     "Vallées": vallees
 };
 
-var layerControl = L.control.layers(overlayMaps).addTo(map);
+var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
 
 </script>
