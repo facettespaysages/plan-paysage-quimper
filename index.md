@@ -157,7 +157,7 @@ var froutStyle = {
     "opacity": 0.65
 };
 
-var frout = L.geoJSON(frout, {style: myStyle}).bindPopup('Le Frout');
+var frout = L.geoJSON(frout, {style: froutStyle}).bindPopup('Le Frout');
 
 var vallees = L.layerGroup([frout]);
 
