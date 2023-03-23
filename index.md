@@ -2,7 +2,9 @@
 layout: home
 classes: wide
 author_profile: false
+<!---
 title: Plan de paysage de Quimper
+--->
 ---
 
 <div id="map"></div>
@@ -152,9 +154,10 @@ var frout = {
             };
 
 var froutStyle = {
-    "color": "#ff7800",
+    "color": "#45d701",
     "weight": 5,
-    "opacity": 0.65
+    "opacity": 0.7,
+    fillOpacity: 0.7
 };
 
 var frout = L.geoJSON(frout, {style: froutStyle}).bindPopup('Le Frout');
