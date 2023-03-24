@@ -1,2 +1,8 @@
 # main links
 main:
+  - title: "Home"
+    url: /
+  - title: "Unités Paysagères"
+    url:  /unites-paysageres/
+  - title: "Contact"
+    url: /contact/
