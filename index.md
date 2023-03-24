@@ -21,8 +21,6 @@ Le premier objectif du plan de paysage est d’imaginer le récit paysager de Qu
 
 Le plan de paysage tracera les contours d’une stratégie prospective pour la création des paysages de demain, résilients et sobres. Pour cela, il s’appuiera sur la trame verte et bleue et consolidera le lien entre biodiversité et paysage. Le dernier enjeu sera de s’adosser au schéma directeur des mobilités actives pour définir un maillage de mobilités douces intégrées à la trame paysagère du territoire.
 
-https://pocman.github.io/plan-paysage-quimper/2023-03-24-lanniron/
-
 <script>
 
 var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
