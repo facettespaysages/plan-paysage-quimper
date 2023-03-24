@@ -279,3 +279,11 @@ defaults:
       wide: true
       author_profile: false
       share: true
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      wide: false
+      author_profile: false
+      share: true

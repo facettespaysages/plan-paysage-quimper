@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Actualités"
+    url:  /news/
   - title: "Unités Paysagères"
     url:  /unites_paysageres/
   - title: "Contact"
