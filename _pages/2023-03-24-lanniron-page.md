@@ -5,7 +5,7 @@ title:  "Parc et jardins du château de Lanniron"
 header:
   overlay_image: /assets/images/lanniron.png
   overlay_filter: 0.5
-  show_overlay_excerpt: false
+  show_overlay_excerpt: true
   caption: "L'orangerie de Lanniron"
   actions:
     - label: "Site Officiel"
