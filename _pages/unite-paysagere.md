@@ -1,5 +1,5 @@
 title: Unités Paysagères
 layout: category
 permalink: /unites-paysageres/
-taxonomy: unite-paysagere
+taxonomy: unite
 entries_layout: grid
