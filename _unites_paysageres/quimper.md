@@ -1,7 +1,4 @@
 ---
-layout: single
-classes: wide
-author_profile: false
 title:  "Quimper"
 header:
   overlay_image: /assets/images/quimper.png

@@ -270,3 +270,12 @@ defaults:
       type: pages
     values:
       layout: single
+  # _portfolio
+  - scope:
+      path: ""
+      type: unites_paysageres
+    values:
+      layout: single
+      wide: true
+      author_profile: false
+      share: true
