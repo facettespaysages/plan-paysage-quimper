@@ -1,0 +1,19 @@
+---
+layout: single
+classes: wide
+author_profile: false
+title:  "Parc et jardins du château de Lanniron"
+header:
+  overlay_image: /assets/images/lanniron.png
+  overlay_filter: 0.5
+  caption: "L'orangerie de Lanniron"
+  actions:
+    - label: "Site Officiel"
+      url: "https://lanniron.com/fr/"
+---
+
+Le château de Lanniron, fut l'ancienne résidence d'été des évêques de Cornouaille. 
+Il est situé sur le territoire de la commune de Quimper dans le Finistère, en Bretagne. 
+Il fait l’objet d’une inscription au titre des monuments historiques depuis le 6 mai 1988 et depuis le 23 décembre 1992.
+
+![Parc et jardins du château de Lanniron](/plan-paysage-quimper/assets/images/lanniron.png)
