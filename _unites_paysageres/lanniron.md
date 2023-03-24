@@ -1,6 +1,9 @@
 ---
 title:  "Parc et jardins du château de Lanniron"
+excerpt: "La présence des évêques de Cornouaille à Lanniron est attestée depuis le XIIe siècle. "
 header:
+  image: /assets/images/lanniron.png
+  teaser: /assets/images/lanniron.png
   overlay_image: /assets/images/lanniron.png
   overlay_filter: 0.5
   show_overlay_excerpt: true
@@ -8,7 +11,6 @@ header:
   actions:
     - label: "Site Officiel"
       url: "https://lanniron.com/fr/"
-excerpt: "La présence des évêques de Cornouaille à Lanniron est attestée depuis le XIIe siècle. "
 ---
 
 Le château de Lanniron, fut l'ancienne résidence d'été des évêques de Cornouaille. 
