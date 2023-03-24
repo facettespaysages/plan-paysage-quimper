@@ -1,10 +1,25 @@
 ---
 title:  "Quimper"
+excerpt: "Quimper est une commune française de la région Bretagne située dans le nord-ouest de la France."
 header:
+  image: /assets/images/quimper.png
+  teaser: /assets/images/quimper.png
   overlay_image: /assets/images/quimper.png
   overlay_filter: 0.5
   show_overlay_excerpt: true
-excerpt: "Quimper est une commune française de la région Bretagne située dans le nord-ouest de la France."
+sidebar:
+  - title: "Catégorie de Paysage"
+    text: "Urbaine"
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
 ---
 
 Quimper est une commune française de la région Bretagne située dans le nord-ouest de la France. 
