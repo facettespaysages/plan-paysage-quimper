@@ -246,6 +246,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  unites_paysageres:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
