@@ -1,7 +1,6 @@
 ---
-layout: single
-classes: wide
-author_profile: false
+layout: splash
+permalink: /lanniron-page/
 title:  "Parc et jardins du château de Lanniron"
 header:
   overlay_image: /assets/images/lanniron.png
