@@ -26,4 +26,4 @@ La ville est la préfecture du département du Finistère, le siège du Conseil 
 
 Elle est également la capitale traditionnelle de la Cornouaille, du Pays Glazik et du Pays de Cornouaille qui compte 331 300 habitants en 2009, le siège de l'intercommunalité de Quimper Bretagne occidentale qui compte 100 187 habitants en 2014, le siège de l'arrondissement de Quimper et enfin le siège du diocèse de Quimper et Léon. Ses habitants sont appelés les Quimpérois. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Quelques vues de Quimper." %}
