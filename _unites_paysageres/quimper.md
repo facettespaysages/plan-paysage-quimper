@@ -12,10 +12,10 @@ sidebar:
     text: "Urbaine"
 gallery:
   - url: /assets/images/quimper_1.jpg
-    image_path: assets/images/quimper_1.jpg
+    image_path: /assets/images/quimper_1.jpg
     alt: "placeholder image 1"
   - url: /assets/images/quimper_2.jpg
-    image_path: assets/images/quimper_2.jpg
+    image_path: /assets/images/quimper_2.jpg
     alt: "placeholder image 2"
 ---
 
