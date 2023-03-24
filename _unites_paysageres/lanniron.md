@@ -11,6 +11,11 @@ header:
   actions:
     - label: "Site Officiel"
       url: "https://lanniron.com/fr/"
+sidebar:
+  - title: "Catégorie de Paysage"
+    text: "Domaine"
+  - title: "Autre information"
+    text: "Chateau !"
 ---
 
 Le château de Lanniron, fut l'ancienne résidence d'été des évêques de Cornouaille. 
