@@ -250,6 +250,9 @@ collections:
   unites_paysageres:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
