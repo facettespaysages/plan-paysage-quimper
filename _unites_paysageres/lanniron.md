@@ -16,6 +16,7 @@ sidebar:
     text: "Domaine"
   - title: "Autre information"
     text: "Chateau !"
+last_modified_at: 2023-03-26T00:00:00-00:00
 ---
 
 Le château de Lanniron, fut l'ancienne résidence d'été des évêques de Cornouaille. 

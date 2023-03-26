@@ -17,6 +17,7 @@ gallery:
   - url: /assets/images/quimper_2.jpg
     image_path: /assets/images/quimper_2.jpg
     alt: "placeholder image 2"
+last_modified_at: 2023-03-26T00:00:00-00:00
 ---
 
 Quimper est une commune française de la région Bretagne située dans le nord-ouest de la France. 
