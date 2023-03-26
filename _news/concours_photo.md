@@ -1,6 +1,6 @@
 ---
 title:  "Concours photo"
-excerpt: "Concours photo"
+excerpt: "Quimper Bretagne Occidentale organise un concours photographique."
 last_modified_at: 2023-03-20T00:00:00-00:00
 ---
 
