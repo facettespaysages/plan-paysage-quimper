@@ -3,9 +3,9 @@ layout: splash
 permalink: /contact/
 title:  "Vous avez des idées ?"
 header:
-  image: /assets/images/contact.png
-  teaser: /assets/images/contact.png
-  overlay_image: /assets/images/contact.png
+  image: /assets/images/contact.jpg
+  teaser: /assets/images/thumbs/contact.gif
+  overlay_image: /assets/images/contact.jpg
   actions:
     - label: "juliette@facettes.bzh"
       url: "mailto:juliette@facettes.bzh"

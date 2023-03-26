@@ -15,7 +15,7 @@ Quimper est un territoire reconnu pour la qualité de son cadre de vie. Pour la 
 
 La démarche de plan de paysage a pour objectif d’appréhender l’évolution des paysages dans le temps et d’assurer une cohérence des différentes interventions sur le territoire, afin de construire un projet de cadre de vie de qualité.
 
-![Quimper](/plan-paysage-quimper/assets/images/quimper.png)
+![Quimper](/plan-paysage-quimper/assets/images/quimper.jpg)
 
 Le premier objectif du plan de paysage est d’imaginer le récit paysager de Quimper et de trouver une cohérence sur un territoire riche en formes paysagères jamais réellement décrites. Du fait de la forte dimension patrimoniale du territoire, le second objectif sera d’imaginer les modalités du dialogue entre ce patrimoine et le paysage, pour les conforter et élargir les motifs d’attractivité du territoire.
 
