@@ -1,6 +1,6 @@
 ---
-title:  "Concours photo"
-excerpt: "Quimper Bretagne Occidentale organise un concours photographique."
+title:  "L'étude de l'état initial de l'environnement "
+excerpt: "Documents pour aller plus loin."
 last_modified_at: 2023-03-20T00:00:00-00:00
 ---
 
