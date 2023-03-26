@@ -3,7 +3,7 @@ title:  "Parc et jardins du château de Lanniron"
 excerpt: "La présence des évêques de Cornouaille à Lanniron est attestée depuis le XIIe siècle. "
 header:
   image: /assets/images/lanniron.jpg
-  teaser: /assets/images/thumbs/lanniron.jpg
+  teaser: /assets/images/thumbs/lanniron.gif
   overlay_image: /assets/images/lanniron.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true
