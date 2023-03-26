@@ -9,5 +9,3 @@ last_modified_at: 2023-03-26T00:00:00-00:00
 <a href="{{ site.url }}/plan-paysage-quimper/assets/pdfs/1_-_rnt_e_avec_couv.pdf" type="application/pdf;">Résumé non technique </a>
 
 <embed src="{{ site.url }}/plan-paysage-quimper/assets/pdfs/2_-_note_denjeux_et_de_methodologie_g.pdf" type="application/pdf"/>
-
-{% asset_path pdfs/2_-_note_denjeux_et_de_methodologie_g.pdf %}
