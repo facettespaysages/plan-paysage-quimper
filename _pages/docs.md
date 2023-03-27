@@ -2,15 +2,12 @@
 layout: splash
 permalink: /docs/
 title:  "Documentation"
-header:
-  image: /assets/images/contact.jpg
-  teaser: /assets/images/thumbs/contact.gif
-  overlay_image: /assets/images/contact.jpg
 excerpt: "Vous trouverez ici toutes la documentation nécessaire pour connaître le projet."
 ---
 
-## L'étude de l'état initial de l'environnement 
-[Guide de lecture]({{ site.url }}{{ site.baseurl }}/assets/pdfs/0_-_guide_de_lecture_indb_avec_couv_1.pdf)
+## L'étude de l'état initial de l'environnement
+
+![pdf](/plan-paysage-quimper/assets/images/pdf-icon.png)[Guide de lecture]({{ site.url }}{{ site.baseurl }}/assets/pdfs/0_-_guide_de_lecture_indb_avec_couv_1.pdf)
 
 [Résumé non technique]({{ site.url }}{{ site.baseurl }}/assets/pdfs/1_-_rnt_e_avec_couv.pdf)
 
