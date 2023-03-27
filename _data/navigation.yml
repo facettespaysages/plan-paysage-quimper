@@ -4,5 +4,7 @@ main:
     url:  /news/
   - title: "Unités Paysagères"
     url:  /unites_paysageres/
+  - title: "Aller plus loin"
+    url:  /docs/
   - title: "Contact"
     url: /contact/
