@@ -292,5 +292,5 @@ defaults:
       share: true
 
 # If you'd like to serve emoji images locally, or use a custom emoji source, you can specify so in your _config.yml file:
-emoji:
-  src: "/assets/images/emoji"
+#emoji:
+#  src: "/assets/images/emoji"

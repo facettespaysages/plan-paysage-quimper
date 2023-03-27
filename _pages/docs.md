@@ -13,4 +13,4 @@ excerpt: "Vous trouverez ici toutes la documentation nécessaire pour connaître
 
 :file_folder: [Note d'enjeux et de méthodologie]({{ site.url }}{{ site.baseurl }}/assets/pdfs/2_-_note_denjeux_et_de_methodologie_g.pdf)
 
-:pdf:
+:+1:
