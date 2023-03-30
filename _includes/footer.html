@@ -9,9 +9,6 @@
 <!--    {% if site.data.ui-text[site.locale].follow_label %}-->
 <!--      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>-->
 <!--    {% endif %}-->
-    {% if logo_path %}
-      <img src="{{ logo_path }}" width="176" height="162">
-    {% endif %}
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
@@ -24,6 +21,11 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</div>
+<div class="page__footer-copyright">
+    &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
+    {% if logo_path %}
+        <img src="{{ logo_path }}" width="88" height="81">
+    {% endif %}
+</div>
 
 
