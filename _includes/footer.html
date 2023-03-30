@@ -1,9 +1,17 @@
+{% if site.logo contains "://" %}
+    {% capture logo_path %}{{ site.logo }}{% endcapture %}
+{% else %}
+    {% capture logo_path %}{{ site.logo | relative_url }}{% endcapture %}
+{% endif %}
+
 <div class="page__footer-follow">
   <ul class="social-icons">
 <!--    {% if site.data.ui-text[site.locale].follow_label %}-->
 <!--      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>-->
 <!--    {% endif %}-->
-
+    {% if logo_path %}
+      <img src="{{ logo_path }}">
+    {% endif %}
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
@@ -17,3 +25,5 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</div>
+
+
