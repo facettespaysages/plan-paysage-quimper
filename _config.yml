@@ -290,3 +290,5 @@ defaults:
       wide: false
       author_profile: false
       share: true
+
+logo: "/assets/images/logo_facettes_paysages.png"
