@@ -17,8 +17,8 @@ sidebar:
   - title: "Autre information"
     text: "Chateau !"
 location:
-  latitude: 47.976063665037344
-  longitude: -4.110786015345539
+  latitude: 47.9760636
+  longitude: -4.1107860
 last_modified_at: 2023-03-26T00:00:00-00:00
 ---
 

@@ -18,8 +18,8 @@ gallery:
     image_path: /assets/images/quimper_2.jpg
     alt: "placeholder image 2"
 location:
-  latitude: 47.990696341785984
-  longitude: -4.091364463006604
+  latitude: 47.9906963
+  longitude: -4.0913644
 last_modified_at: 2023-03-26T00:00:00-00:00
 ---
 

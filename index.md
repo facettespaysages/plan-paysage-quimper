@@ -28,20 +28,10 @@ var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
 });
 
-var otm = L.tileLayer('http://a.tile.opentopomap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '© OpenTopoMap'
-});
-
-var parc1 = L.marker([48.0105328,-4.1174417]).bindPopup('Parc du Manoir des Salles'),
-    parc2 = L.marker([47.9980852,-4.112518]).bindPopup('Jardin de la Retraite');
-
-var parcs = L.layerGroup([parc1, parc2]);
-
 var map = L.map('map', {
     center: [47.99483, -4.08923],
     zoom: 12,
-    layers: [osm, parcs]
+    layers: [osm]
 });
 
 {%- for unite in site.unites_paysageres -%}
