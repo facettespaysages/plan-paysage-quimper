@@ -3,20 +3,22 @@
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.location.latitude and page.location.longitude %}
     <div id="map"></div>
-    var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19,
-      attribution: '© OpenStreetMap'
-    });
+    <script>
+      var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap'
+      });
 
-    var map = L.map('map', {
-      center: [47.99483, -4.08923],
-      zoom: 12,
-      layers: [osm]
-    });
+      var map = L.map('map', {
+        center: [47.99483, -4.08923],
+        zoom: 12,
+        layers: [osm]
+      });
 
-    L.marker([ {{page.location.latitude}}, {{page.location.longitude}} ])
-     .bindPopup(L.popup({maxWidth:500}).setContent("{'{{page.title}}'}"))
-     .addTo(map);
+      L.marker([ {{page.location.latitude}}, {{page.location.longitude}} ])
+       .bindPopup(L.popup({maxWidth:500}).setContent("{'{{page.title}}'}"))
+       .addTo(map);
+   </script>
   {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
