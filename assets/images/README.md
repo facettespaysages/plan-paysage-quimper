@@ -1,6 +1,7 @@
 # How to convert and compress images
 Convert to jpg :
 ```shell script
+cd assets/images
 magick contact.png contact.jpg
 ```
 
