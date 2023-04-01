@@ -36,7 +36,9 @@ var map = L.map('map', {
 
 {%- for unite in site.unites_paysageres -%}
     {% if unite.location.latitude and unite.location.longitude %}
-        L.marker([ {{unite.location.latitude}}, {{unite.location.longitude}} ], { title: '{{unite.title}}'}).addTo(map);
+        L.marker([ {{unite.location.latitude}}, {{unite.location.longitude}} ])
+         .bindPopup(L.popup({maxWidth:500}).setContent("{'{{unite.title}}'}"))
+         .addTo(map);
     {% endif %}
 {% endfor %}
 
