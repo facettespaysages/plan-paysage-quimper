@@ -46,20 +46,7 @@ var map = L.map('map', {
 
 {%- for unite in site.unites_paysageres -%}
     {% if unite.location.latitude and unite.location.longitude %}
-        L.marker([ {{post.location.latitude}}, {{post.location.longitude}} ], { title: '{{post.title}}'}).addTo(map);
-    {% endif %}
-{% endfor %}
-
-var froutStyle = {
-    "color": "#45d701",
-    "weight": 5,
-    "opacity": 0.7,
-    fillOpacity: 0.7
-};
-
-{%- for unite in site.unites_paysageres -%}
-    {% if unite.location.geojson %}
-        L.geoJSON(unite.location.geojson, {title: '{{unite.title}}', style: froutStyle}).addTo(map);
+        L.marker([ {{unite.location.latitude}}, {{unite.location.longitude}} ], { title: '{{unite.title}}'}).addTo(map);
     {% endif %}
 {% endfor %}
 
