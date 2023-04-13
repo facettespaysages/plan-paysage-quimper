@@ -20,9 +20,9 @@ title                    : "Plan de paysage de Quimper"
 title_separator          : "-"
 name                     : "Plan de paysage de Quimper - Facettes Paysages"
 description              : "Plan de paysage de Quimper - Facettes Paysages"
-url                      : "https://pocman.github.io"
+url                      : "https://facettespaysages.github.io"
 baseurl                  : "/plan-paysage-quimper"
-repository               : "pocman/plan-paysage-quimper" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "facettespaysages/plan-paysage-quimper" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
