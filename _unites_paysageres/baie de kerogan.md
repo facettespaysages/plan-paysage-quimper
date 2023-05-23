@@ -24,4 +24,4 @@ last_modified_at: 2023-03-26T00:00:00-00:00
 
 La baie de Kerogan est un espace naturel remarquable. Cet ensemble est constitué de vases molles et de prés salés, caractéristiques des paysages maritimes. Cette diversité des sols et des végétaux permet à une faune exceptionnelle de prospérer et de se développer à l'échelle de l'Estuaire de l'Odet. Ce caractère exceptionnel est d'ailleurs conforté par l'inscription de la baie en ZNIEFF de type I et II, et la publication de l'arrêté préfectoral de protection de biotope promulgué le 16 avril 2015.
 
-![Baie_de_Kerogan](/plan-paysage-quimper/assets/images/baie-kerogan.jpg)
+![Baie_de_Kerogan](/assets/images/baie-kerogan.jpg)
