@@ -24,7 +24,7 @@
 <div class="page__footer-copyright">
     &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
     {% if logo_path %}
-        <img src="{{ logo_path }}" width="88" height="81">
+        <img src="{{ logo_path }}" width="88" height="81" alt="{{ site.name | default: site.title }}">
     {% endif %}
 </div>
 
