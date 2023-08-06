@@ -123,28 +123,15 @@
   <link rel="next" href="{{ paginator.next_page_path | absolute_url }}">
 {% endif %}
 
-{% if site.og_image %}
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "url": {{ seo_url | jsonify }},
-      "logo": {{ site_og_image | jsonify }}
-    }
-  </script>
-{% endif %}
-
-{% if site.social %}
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name": {{ site.social.name | default: site.name | jsonify }},
-      "url": {{ seo_url | jsonify }},
-      "sameAs": {{ site.social.links | jsonify }}
-    }
-  </script>
-{% endif %}
+<script type="application/ld+json">
+  {
+    "@context" : "https://schema.org",
+    "@type" : "WebSite",
+    "name" : "Facettes Paysages",
+    "alternateName" : "Facettes",
+    "url" : "https://plan-paysage-quimper.facettes.bzh/"
+  }
+</script>
 
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
