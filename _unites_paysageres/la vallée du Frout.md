@@ -2,9 +2,9 @@
 title:  "La vallée du Frout"
 excerpt: "La vallée du Frout s'étend sur 11,4km de long."
 header:
-  image: /assets/images/frout.jpg
-  teaser: /assets/images/thumbs/frout.gif
-  overlay_image: /assets/images/frout.jpg
+  image: /assets/images/frout.webp
+  teaser: /assets/images/thumbnails/frout.webp
+  overlay_image: /assets/images/frout.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 sidebar:

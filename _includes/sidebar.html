@@ -1,22 +1,15 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.location.latitude and page.location.longitude %}
-    <div id="map"></div>
-  {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
-        <img src=
-        {% if s.image contains "://" %}
-          "{{ s.image }}"
-        {% else %}
-          "{{ s.image | relative_url }}"
-        {% endif %}
-        alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        <img src="{{ s.image | relative_url }}"
+             alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
+      {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
@@ -24,20 +17,3 @@
   {% endif %}
   </div>
 {% endif %}
-
-<script>
-var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  maxZoom: 19,
-  attribution: '© OpenStreetMap'
-});
-
-var map = L.map('map', {
-  center: [47.99483, -4.08923],
-  zoom: 12,
-  layers: [osm]
-});
-
-L.marker([ {{page.location.latitude}}, {{page.location.longitude}} ])
- .bindPopup(L.popup({maxWidth:500}).setContent("{{page.title}}"))
- .addTo(map);
-</script>

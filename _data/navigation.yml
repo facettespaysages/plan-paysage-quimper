@@ -1,10 +1,12 @@
 # main links
 main:
-  - title: "Actualités"
-    url:  /news/
-  - title: "Unités Paysagères"
-    url:  /unites_paysageres/
-  - title: "Aller plus loin"
-    url:  /docs/
-  - title: "Contact"
-    url: /contact/
+   - title: "Présentation"
+     url: /présentation/
+   - title: "Actualités"
+     url: /category/actualités/
+   - title: "Unités Paysagères"
+     url:  /unites_paysageres/
+   - title: "Partenaires"
+     url: /partenaires/
+   - title: "Contact"
+     url: /contact/

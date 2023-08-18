@@ -1,13 +1,13 @@
 ---
 layout: splash
 permalink: /contact/
-title:  "Vous avez des idées ?"
+title:  "Vous avez des questions ?"
+seo_title: Contact
 header:
-  image: /assets/images/contact.jpg
-  teaser: /assets/images/thumbs/contact.gif
-  overlay_image: /assets/images/contact.jpg
+  overlay_image: /assets/images/contact.webp
+  overlay_filter: 0.5
   actions:
-    - label: "juliette@facettes.bzh"
-      url: "mailto:juliette@facettes.bzh"
-excerpt: "Pour toutes demandes d'informations au sujet du plan paysage ou pour nous faire partager des remarques contactez nous par mail."
+    - label: "plan-paysage-quimper@facettes.bzh"
+      url: "mailto:plan-paysage-quimper@facettes.bzh"
+excerpt: "Pour toutes demandes d'informations au sujet du Plan de Paysage, contactez l'équipe par mail ou par téléphone au 07.84.31.80.96."
 ---

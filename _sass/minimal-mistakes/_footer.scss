@@ -8,12 +8,6 @@
   margin-left: 0;
   margin-right: 0;
   width: 100%;
-  clear: both;
-  /* sticky footer fix start */
-  position: absolute;
-  bottom: 0;
-  height: auto;
-  /* sticky footer fix end */
   margin-top: 3em;
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
@@ -87,5 +81,19 @@
     a {
       white-space: nowrap;
     }
+  }
+}
+
+.footer-logo img {
+  max-height: 4.5rem;
+}
+
+.footer__wrapper {
+  @include clearfix();
+  margin-bottom: 2em;
+  font-size: $type-size-8;
+
+  .archive__item-title {
+    margin-bottom: 0;
   }
 }

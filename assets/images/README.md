@@ -20,5 +20,20 @@ convert baie-kerogan.jpg -resize 50% baie-kerogan.jpg
 ## Create thumbnails :
 ```shell script
 cd assets/images
-mogrify  -format gif -path thumbs -thumbnail 320x320 *.jpg
+mogrify  -format jpg -path thumbnails -thumbnail 600x600 *.jpg
+mogrify  -format png -path thumbnails -thumbnail 150x150 *.png
+mogrify  -format jpg -path thumbnails/projets -thumbnail 600x600 projets/*.jpg
+mogrify  -format jpg -path thumbnails/partenaires -thumbnail 400x400 partenaires/*.jpg
+mogrify  -format jpg -path thumbnails/actualites -thumbnail 400x400 actualites/*.jpg
 ```
+
+## Create webp versions
+
+```
+apt install webp parallel
+find . | egrep '.jpeg|.jpg|.tiff|.tif|.png' | parallel --progress 'cwebp -quiet -af {} -o {.}.webp'
+
+find ./ -type f -name '*.jpg' -exec sh -c 'cwebp -q 75 $1 -o "${1%.jpg}.webp"' _ {} \;
+
+```
+

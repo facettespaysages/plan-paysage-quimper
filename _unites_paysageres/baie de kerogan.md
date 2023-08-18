@@ -2,9 +2,9 @@
 title:  "La baie de Kerogan"
 excerpt: "Elle accueille une biodiversité exceptionnelle comme le Balbuzard pêcheur ou l'Avocette élégante. "
 header:
-  image: /assets/images/baie-kerogan.jpg
-  teaser: /assets/images/thumbs/baie-kerogan.gif
-  overlay_image: /assets/images/baie-kerogan.jpg
+  image: /assets/images/baie-kerogan.webp
+  teaser: /assets/images/thumbnails/baie-kerogan.webp
+  overlay_image: /assets/images/baie-kerogan.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
   caption: "©Isabelle Nivez"
@@ -24,4 +24,4 @@ last_modified_at: 2023-03-26T00:00:00-00:00
 
 La baie de Kerogan est un espace naturel remarquable. Cet ensemble est constitué de vases molles et de prés salés, caractéristiques des paysages maritimes. Cette diversité des sols et des végétaux permet à une faune exceptionnelle de prospérer et de se développer à l'échelle de l'Estuaire de l'Odet. Ce caractère exceptionnel est d'ailleurs conforté par l'inscription de la baie en ZNIEFF de type I et II, et la publication de l'arrêté préfectoral de protection de biotope promulgué le 16 avril 2015.
 
-![Baie_de_Kerogan](/assets/images/baie-kerogan.jpg)
+![Baie_de_Kerogan](/assets/images/baie-kerogan.webp)

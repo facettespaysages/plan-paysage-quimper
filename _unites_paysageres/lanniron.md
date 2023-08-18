@@ -2,9 +2,9 @@
 title:  "Parc et jardins du château de Lanniron"
 excerpt: "La présence des évêques de Cornouaille à Lanniron est attestée depuis le XIIe siècle. "
 header:
-  image: /assets/images/lanniron.jpg
-  teaser: /assets/images/thumbs/lanniron.gif
-  overlay_image: /assets/images/lanniron.jpg
+  image: /assets/images/lanniron.webp
+  teaser: /assets/images/thumbnails/lanniron.webp
+  overlay_image: /assets/images/lanniron.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
   caption: "L'orangerie de Lanniron"
@@ -26,4 +26,4 @@ Le château de Lanniron, fut l'ancienne résidence d'été des évêques de Corn
 Il est situé sur le territoire de la commune de Quimper dans le Finistère, en Bretagne. 
 Il fait l’objet d’une inscription au titre des monuments historiques depuis le 6 mai 1988 et depuis le 23 décembre 1992.
 
-![Parc et jardins du château de Lanniron](/assets/images/lanniron.jpg)
+![Parc et jardins du château de Lanniron](/assets/images/lanniron.webp)
