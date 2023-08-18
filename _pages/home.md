@@ -28,11 +28,12 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
+<div id="map"></div>
+
 {% include feature_row %}
 
 Calendrier de l'étude
 
-<div id="map"></div>
 
 <script>
 

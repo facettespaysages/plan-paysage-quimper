@@ -8,6 +8,11 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+#map {
+    width: 100%;
+    height: 300px;
+}
+
 /* devanagari */
 @font-face {
   font-family: 'Poppins';
