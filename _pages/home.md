@@ -19,10 +19,16 @@ feature_row:
     alt: ""
     title: "Stratégie paysagère"
     excerpt: "Définition des objectifs de qualité paysagère"
+    url: "/strategie_paysagere/"
+    btn_label: "La consulter"
+    btn_class: "btn--primary"
   - image_path: assets/images/thumbnails/projets/Chaumont.webp
     alt: ""
     title: "Programme d'actions"
     excerpt: "Rédaction des fiches actions à mettre en oeuvre"
+    url: "/programme_actions/"
+    btn_label: "En prendre connaissance"
+    btn_class: "btn--primary"
 ---
 
 

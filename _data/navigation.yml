@@ -1,11 +1,13 @@
 # main links
 main:
-   - title: "Présentation"
-     url: /présentation/
    - title: "Actualités"
      url: /category/actualités/
    - title: "Unités Paysagères"
      url:  /unites_paysageres/
+   - title: "Stratégie paysagère"
+     url:  /strategie_paysagere/
+   - title: "Programme d'actions"
+     url:  /programme_actions/
    - title: "Partenaires"
      url: /partenaires/
    - title: "Contact"
