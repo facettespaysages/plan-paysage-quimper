@@ -2,8 +2,8 @@
 layout: single
 title:  "Plan de paysage de Quimper
 <br>
-Actualité #02"
-excerpt: "Déroulé sur deux ans, le plan de paysage de Quimper démarre en juin 2023 !"
+Actualité #01"
+excerpt: "Déroulé sur deux ans, le plan de paysage de Quimper a démarré en juin 2023 !"
 categories:
   - Actualités
 author_profile: false
