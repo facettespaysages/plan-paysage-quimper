@@ -12,4 +12,4 @@ header:
       url: https://agence-bientot.com/
 ---
 
-Bientôt est une agence d'architecture et d'urbanisme basée à Vierzon. Nous sommes lauréats pour mener l'étude Action Coeur de Ville à Vierzon et le plan de paysage de Quimper.
+Bientôt est une agence d'architecture et d'urbanisme basée à Vierzon. Elle fait partie du groupement de maîtrise d'oeuvre lauréat du plan de paysage.

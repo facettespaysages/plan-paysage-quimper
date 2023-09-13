@@ -8,6 +8,6 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "planpaysagequimper@facettes.bzh"
-      url: "mailto:plan-paysage-quimper@facettes.bzh"
+      url: "mailto:planpaysagequimper@facettes.bzh"
 excerpt: "Pour toutes demandes d'informations au sujet du Plan de Paysage, contactez l'équipe par mail et en vous inscrivant à la newsletter !"
 ---
