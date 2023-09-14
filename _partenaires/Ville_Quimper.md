@@ -12,4 +12,4 @@ header:
       url: https://www.quimper.bzh/
 ---
 
-Avec Isabelle Nivez, Louise Quintana, Bientôt et Biotope, la ville de Quimper nous fait confiance dans l'élaboration de son plan de paysage.
+la ville de Quimper est la maîtrise d'ouvrage du plan de paysage.

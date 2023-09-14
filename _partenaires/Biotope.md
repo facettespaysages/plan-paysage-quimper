@@ -12,4 +12,4 @@ header:
       url: https://www.biotope.fr/
 ---
 
-Biotope environnement est un bureau d'études spécialisé sur les sujets d'écologie. Facettes Paysages travaille avec l'antenne brestoise. Elle fait partie de notre équipe lauréate du plan de paysage de Quimper.
+Biotope environnement est un bureau d'études spécialisé sur les sujets d'écologie. Il fait partie du groupement de maîtrise d'oeuvre lauréat du plan de paysage.
