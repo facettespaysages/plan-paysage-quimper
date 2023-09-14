@@ -48,6 +48,7 @@ feature_row:
 {% include feature_row %}
 
 Calendrier de l'étude
+![image](assets/images/frise_chronologique.jpg)
 
 
 <script>
