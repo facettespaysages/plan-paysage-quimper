@@ -7,6 +7,6 @@ collection: unites_paysageres
 entries_layout: grid
 classes: wide
 ---
-![image](assets/images/ppq_logo.png)
+![image](/assets/images/ppq_logo.png)
 
 Cette première phase de travail permettra de se saisir pleinement des enjeux territoriaux et paysagers de la commune et ses abords : comprendre les dynamiques et les tendances d’évolution des paysages de Quimper afin de mettre en exergue certaines fragilités ou au contraire, certaines forces de ceux qui la constituent. 
