@@ -56,7 +56,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include carousel.html height="50" unit="%" duration="10" number="1" %}
+{% include carousel.html height="50" unit="%" duration="30" number="1" %}
 
 {% include feature_row id="intro" type="center" %}
 
