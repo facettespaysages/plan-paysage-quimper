@@ -8,29 +8,29 @@ excerpt: "Une démarche volontaire lancée par une collectivité, qui invite les
 carousels:
   - images:
     - url: /assets/images/croquis1_baie_odet.webp
-      alt: "Baie de l'Odet depuis Creac'h Gwen"
+      caption: "Baie de l'Odet depuis Creac'h Gwen"
     - url: /assets/images/croquis2_kervalguen_2.webp
-      alt: "Nouveau quartier de Kervalguen"
+      caption: "Nouveau quartier de Kervalguen"
     - url: /assets/images/croquis2_kervalguen.webp
-      alt: "Ancienne voie ferrée désaffectée reliant Pont-l'Abbé à Quimper"
+      caption: "Ancienne voie ferrée désaffectée reliant Pont-l'Abbé à Quimper"
     - url: /assets/images/croquis3_kerbenez.webp
-      alt: "Voie privée menant au château de Kerbenez"
+      caption: "Voie privée menant au château de Kerbenez"
     - url: /assets/images/croquis4_moulinvert.webp
-      alt: "Ouverture du Steïr dans le quartier du Moulin Vert"
+      caption: "Ouverture du Steïr dans le quartier du Moulin Vert"
     - url: /assets/images/croquis4_routearbrechapon.webp
-      alt: "Alignement remarquable de Hêtres sur la route de l'Arbre au Chapon"
+      caption: "Alignement remarquable de Hêtres sur la route de l'Arbre au Chapon"
     - url: /assets/images/croquis5_stangala.webp
-      alt: "Belvédère sur les gorges de l'Odet au Stangala"
+      caption: "Belvédère sur les gorges de l'Odet au Stangala"
     - url: /assets/images/croquis6_frugy.webp
-      alt: "Ouverture visuelle sur la vallée du Steïr depuis le Mont Frugy"
+      caption: "Ouverture visuelle sur la vallée du Steïr depuis le Mont Frugy"
     - url: /assets/images/croquis7_frugy.webp
-      alt: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
+      caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
     - url: /assets/images/croquis8_frugy.webp
-      alt: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
+      caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
     - url: /assets/images/croquis8_lineostic.webp
-      alt: "Depuis le nouveau quartier Liénostic, perspective sur le plateau bocager sud"
+      caption: "Depuis le nouveau quartier Liénostic, perspective sur le plateau bocager sud"
     - url: /assets/images/croquis9_troyalach.webp
-      alt: "Entrée de ville de Troyalac'h"
+      caption: "Entrée de ville de Troyalac'h"
 intro: 
   - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations"'
   - title: "Objectif paysages"
