@@ -54,6 +54,10 @@ feature_row:
     url: "/programme_actions/"
     btn_label: "En prendre connaissance"
     btn_class: "btn--primary"
+gallery:
+  - url: /assets/images/frise_chronologique.webp
+    image_path: /assets/images/frise_chronologique.webp
+    alt: "Frise chronologique"
 ---
 
 {% include carousel.html height="50" unit="%" duration="30" number="1" %}
@@ -65,7 +69,7 @@ feature_row:
 {% include feature_row %}
 
 Calendrier de l'étude
-![image](assets/images/frise_chronologique.webp)
+{% include gallery %}
 
 
 <script>
