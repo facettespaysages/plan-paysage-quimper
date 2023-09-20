@@ -4,7 +4,7 @@ permalink: /programme_actions/
 title: Le programme d'actions
 seo_title: Programme d'actions
 intro:
-  - image_path: /assets/images/ppq_logo.png
+  - image_path: /assets/images/ppq_logo.webp
     alt: "Le logo du Plan de paysage de Quimper une forme abstraite dessinée à l'aquarelle."
     title: "Le programme d'actions"
     excerpt: |

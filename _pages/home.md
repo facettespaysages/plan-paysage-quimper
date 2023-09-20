@@ -6,41 +6,41 @@ header:
   overlay_filter: "0"
 excerpt: "Une démarche volontaire lancée par une collectivité, qui invite les acteur·ices de son territoire à porter un nouveau regard sur sa géographie, ses ressources et ses fonctionnalités."
 gallery:
-  - url: /assets/images/croquis1_baie_odet.jpg
-    image_path: /assets/images/croquis1_baie_odet.jpg
+  - url: /assets/images/croquis1_baie_odet.webp
+    image_path: /assets/images/croquis1_baie_odet.webp
     alt: "Baie de l'Odet depuis Creac'h Gwen"
-  - url: /assets/images/croquis2_kervalguen_2.jpg
-    image_path: /assets/images/croquis2_kervalguen_2.jpg
+  - url: /assets/images/croquis2_kervalguen_2.webp
+    image_path: /assets/images/croquis2_kervalguen_2.webp
     alt: "Nouveau quartier de Kervalguen"
-  - url: /assets/images/croquis2_kervalguen.jpg
-    image_path: /assets/images/croquis2_kervalguen.jpg
+  - url: /assets/images/croquis2_kervalguen.webp
+    image_path: /assets/images/croquis2_kervalguen.webp
     alt: "Ancienne voie ferrée désaffectée reliant Pont-l'Abbé à Quimper"
-  - url: /assets/images/croquis3_kerbenez.jpg
-    image_path: /assets/images/croquis3_kerbenez.jpg
+  - url: /assets/images/croquis3_kerbenez.webp
+    image_path: /assets/images/croquis3_kerbenez.webp
     alt: "Voie privée menant au château de Kerbenez"
-  - url: /assets/images/croquis4_moulinvert.jpg
-    image_path: /assets/images/croquis4_moulinvert.jpg
+  - url: /assets/images/croquis4_moulinvert.webp
+    image_path: /assets/images/croquis4_moulinvert.webp
     alt: "Ouverture du Steïr dans le quartier du Moulin Vert"
-  - url: /assets/images/croquis4_routearbrechapon.jpg
-    image_path: /assets/images/croquis4_routearbrechapon.jpg
+  - url: /assets/images/croquis4_routearbrechapon.webp
+    image_path: /assets/images/croquis4_routearbrechapon.webp
     alt: "Alignement remarquable de Hêtres sur la route de l'Arbre au Chapon"
-  - url: /assets/images/croquis5_stangala.jpg
-    image_path: /assets/images/croquis5_stangala.jpg
+  - url: /assets/images/croquis5_stangala.webp
+    image_path: /assets/images/croquis5_stangala.webp
     alt: "Belvédère sur les gorges de l'Odet au Stangala"
-  - url: /assets/images/croquis6_frugy.jpg
-    image_path: /assets/images/croquis6_frugy.jpg
+  - url: /assets/images/croquis6_frugy.webp
+    image_path: /assets/images/croquis6_frugy.webp
     alt: "Ouverture visuelle sur la vallée du Steïr depuis le Mont Frugy"
-  - url: /assets/images/croquis7_frugy.jpg
-    image_path: /assets/images/croquis7_frugy.jpg
+  - url: /assets/images/croquis7_frugy.webp
+    image_path: /assets/images/croquis7_frugy.webp
     alt: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
-  - url: /assets/images/croquis8_frugy.jpg
-    image_path: /assets/images/croquis8_frugy.jpg
+  - url: /assets/images/croquis8_frugy.webp
+    image_path: /assets/images/croquis8_frugy.webp
     alt: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
-  - url: /assets/images/croquis8_lineostic.jpg
-    image_path: /assets/images/croquis8_lineostic.jpg
+  - url: /assets/images/croquis8_lineostic.webp
+    image_path: /assets/images/croquis8_lineostic.webp
     alt: "Depuis le nouveau quartier Liénostic, perspective sur le plateau bocager sud"
-  - url: /assets/images/croquis9_troyalach.jpg
-    image_path: /assets/images/croquis9_troyalach.jpg
+  - url: /assets/images/croquis9_troyalach.webp
+    image_path: /assets/images/croquis9_troyalach.webp
     alt: "Entrée de ville de Troyalac'h"
 intro: 
   - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations"'
@@ -75,7 +75,7 @@ feature_row:
 {% include feature_row %}
 
 Calendrier de l'étude
-![image](assets/images/frise_chronologique.jpg)
+![image](assets/images/frise_chronologique.webp)
 
 
 <script>

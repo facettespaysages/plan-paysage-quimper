@@ -11,11 +11,11 @@ sidebar:
   - title: "Catégorie de Paysage"
     text: "Urbaine"
 gallery:
-  - url: /assets/images/quimper_1.jpg
-    image_path: /assets/images/quimper_1.jpg
+  - url: /assets/images/quimper_1.webp
+    image_path: /assets/images/quimper_1.webp
     alt: "placeholder image 1"
-  - url: /assets/images/quimper_2.jpg
-    image_path: /assets/images/quimper_2.jpg
+  - url: /assets/images/quimper_2.webp
+    image_path: /assets/images/quimper_2.webp
     alt: "placeholder image 2"
 location:
   latitude: 47.9906963

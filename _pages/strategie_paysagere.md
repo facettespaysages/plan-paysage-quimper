@@ -4,7 +4,7 @@ permalink: /strategie_paysagere/
 title: La stratégie paysagère
 seo_title: Stratégie paysagère
 intro:
-  - image_path: /assets/images/ppq_logo.png
+  - image_path: /assets/images/ppq_logo.webp
     alt: "Le logo du Plan de paysage de Quimper une forme abstraite dessinée à l'aquarelle."
     title: "La stratégie paysagère"
     excerpt: |
