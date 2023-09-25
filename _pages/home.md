@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#304591"
   overlay_filter: "0"
-excerpt: "Une démarche volontaire lancée par une collectivité, qui invite les acteur·ices de son territoire à porter un nouveau regard sur sa géographie, ses ressources et ses fonctionnalités."
+excerpt: "Une démarche volontaire lancée par une collectivité, qui invite les habitants et acteurs de son territoire à porter un nouveau regard sur sa géographie, ses ressources et ses fonctionnalités."
 carousels:
   - images:
     - url: /assets/images/croquis1_baie_odet.webp
