@@ -2,8 +2,8 @@
 layout: single
 title:  "Plan de paysage de Quimper
 <br>
-Actualité #05"
-excerpt: "Première résidence de l'équipe - découvrir l'agglomération de Quimper et ses facettes paysagères"
+Actualité #02"
+excerpt: "Première résidence de l'équipe - découvrir la commune de Quimper et ses facettes paysagères"
 categories:
   - Actualités
 author_profile: false
