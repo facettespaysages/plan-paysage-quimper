@@ -11,7 +11,9 @@ intro:
       La deuxième partie de l'étude aura pour enjeu de construire une stratégie commune d'adaptation au monde de demain, 
       à l'échelle des différentes unités paysagères. 
       Elle visera à améliorer le cadre de vie des habitant·es et de préserver la diversité des paysages. 
-      Les projections partagées sur des sites paysagers seront sélectionnées à partir du travail participatif de la fresque paysagère menée avec vous courant l'été 2024.
+      <br>
+      Les projections partagées sur des sites paysagers seront sélectionnées à partir du travail participatif mené avec vous, lors de la fresque paysagère réalisée courant l'été 2024.
+      <br>
       La fresque et le bilan de cette phase seront publiés sur cette page.
 ---
 
