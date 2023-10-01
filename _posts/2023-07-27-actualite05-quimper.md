@@ -14,4 +14,6 @@ header:
   overlay_filter: 0.2
 ---
 
-Le plan de paysage de la Ville de Quimper démarre par une découverte du territoire avec Isabelle Nivez, Louise Quintana, Bientôt, Biotope, le CAUE du Finistère et d'autres partenaires du projet. Une découverte qui nous révèle des motifs paysagers imbriqués et complexes. Comment la ville s'est installée puis développée en tenant compte des éléments fondateurs des paysages ? Quelle place occupe le végétal à travers la commune, et sous quelles formes ? Est-ce que la diversité d'habitat rend compte d'une diversité géographique ? Comment les habitant·es vivent le territoire, avec les risques d'hier et d'aujourd'hui ? Rendez-vous en septembre pour la suite de l'étude !
+Le plan de paysage de la Ville de Quimper démarre par une découverte du territoire avec Facettes Paysages, Isabelle Nivez, Louise Quintana, Bientôt, Biotope, le CAUE du Finistère et d'autres partenaires du projet. Une découverte qui nous révèle des motifs paysagers imbriqués et complexes.
+<br>
+Comment la ville s'est installée puis développée en tenant compte des éléments fondateurs des paysages ? Quelle place occupe le végétal à travers la commune, et sous quelles formes ? Est-ce que la diversité d'habitat rend compte d'une diversité géographique ? Comment les habitant·es vivent le territoire, avec les risques d'hier et d'aujourd'hui ? Rendez-vous en septembre pour la suite de l'étude !
