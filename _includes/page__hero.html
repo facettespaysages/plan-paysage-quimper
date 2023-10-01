@@ -30,6 +30,13 @@
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
+      <h3 id="page-subtitle" class="page__subtitle">
+        {% if paginator and site.paginate_show_page_num %}
+        {{ site.subtitle }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
+        {% else %}
+        <i>{{ page.subtitle | default: site.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</i>
+        {% endif %}
+      </h3>
       {% if page.tagline %}
         <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}

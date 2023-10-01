@@ -1,9 +1,12 @@
 ---
 layout: splash
 permalink: /
+title : "Un plan de paysage pour Quimper"
+subtitle : "Ur steuñv ardremez evit Kemper"
 header:
-  overlay_image: /assets/images/ppq_logo_16_9.jpg
-excerpt: "Une démarche volontaire lancée par une collectivité, qui invite les habitants et acteurs de son territoire à porter un nouveau regard sur sa géographie, ses ressources et ses fonctionnalités."
+  overlay_color: "#304591"
+  overlay_filter: "0"
+excerpt: "Une démarche volontaire lancée par la ville de Quimper, qui invite les habitants et acteurs de son territoire à porter un nouveau regard sur sa géographie, ses ressources et ses fonctionnalités pour en préserver ses qualités et restaurer ses paysages. Imaginer ensemble Quimper demain !"
 carousels:
   - images:
     - url: /assets/images/croquis1_baie_odet.webp
@@ -32,8 +35,7 @@ carousels:
       caption: "Entrée de ville de Troyalac'h"
 intro: 
   - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations". 
-Le plan de paysage est un outil de planification permettant d’imaginer un territoire résilient face aux enjeux climatiques actuels et futurs. C’est une démarche participative, imaginée et élaborée avec l’ensemble des acteurs d’un territoire. Elle promeut la préservation, la restauration et la requalification des paysages.
-Afin de vous permettre de contribuer à ce plan de paysage, de nombreux temps d’échange seront organisés tout au long de la démarche : d’octobre 2023 à septembre 2025.'
+Le plan de paysage est un outil de planification permettant d’imaginer un territoire résilient face aux enjeux climatiques actuels et futurs. C’est une démarche participative, imaginée et élaborée avec l’ensemble des acteurs d’un territoire. Elle promeut la préservation, la restauration et la requalification des paysages.'
   - title: "Objectif paysages"
     excerpt: "Situer et suivre les démarches de plan de paysage à travers la France"
     url: "https://objectif-paysages.developpement-durable.gouv.fr/carte-interactive-1"
@@ -72,6 +74,7 @@ gallery:
 Calendrier de l'étude
 {% include gallery %}
 
+Afin de vous permettre de contribuer à ce plan de paysage, de nombreux temps d’échange seront organisés tout au long de la démarche : d’octobre 2023 à septembre 2025.
 
 <script>
 
