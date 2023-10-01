@@ -2,8 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#304591"
-  overlay_filter: "0"
+  overlay_image: /assets/images/ppq_logo_16_9.jpg
 excerpt: "Une démarche volontaire lancée par une collectivité, qui invite les habitants et acteurs de son territoire à porter un nouveau regard sur sa géographie, ses ressources et ses fonctionnalités."
 carousels:
   - images:
