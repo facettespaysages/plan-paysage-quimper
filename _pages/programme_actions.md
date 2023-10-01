@@ -10,7 +10,7 @@ intro:
     excerpt: |
       La dernière étape de l'étude consistera en la rédaction du plan d'action. 
       Il développera et définira les outils à mettre en place pour accompagner les politiques publiques dans l'évolution du territoire, 
-      en tenant compte des faisabilités techniques et financières à engager et des acteur·ices concernée·es. 
+      en tenant compte des faisabilités techniques et financières à engager et des acteurs concernés. 
       <br>
       Un travail de concertation sur table sera mené avec vous pour écrire et développer des projets adaptés à vos besoins, 
       sur différents sites préalablement identifiés avec la ville de Quimper et ses partenaires. 
