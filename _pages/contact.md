@@ -14,4 +14,4 @@ excerpt: "Pour toutes demandes d'informations au sujet du Plan de Paysage, conta
 
 <iframe title="Inscrivez-vous à la newsletter !" data-w-type="embedded" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://029ph.mjt.lu/wgt/029ph/qv2/form?c=aaaad1b6" width="100%" style="height: 0;"></iframe>
 
-<script type="text/javascript" src="https://app.mailjet.com/pas-nc-embedded-v1.js"></script>[.editorconfig](..%2F.editorconfig)
+<script type="text/javascript" src="https://app.mailjet.com/pas-nc-embedded-v1.js"></script>
