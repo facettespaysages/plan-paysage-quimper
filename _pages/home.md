@@ -32,7 +32,9 @@ carousels:
     - url: /assets/images/croquis9_troyalach.webp
       caption: "Entrée de ville de Troyalac'h"
 intro: 
-  - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations"'
+  - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations". 
+Le plan de paysage est un outil de planification permettant d’imaginer un territoire résilient face aux enjeux climatiques actuels et futurs. C’est une démarche participative, imaginée et élaborée avec l’ensemble des acteurs d’un territoire. Elle promeut la préservation, la restauration et la requalification des paysages.
+Afin de vous permettre de contribuer à ce plan de paysage, de nombreux temps d’échange seront organisés tout au long de la démarche : d’octobre 2023 à septembre 2025.'
   - title: "Objectif paysages"
     excerpt: "Situer et suivre les démarches de plan de paysage à travers la France"
     url: "https://objectif-paysages.developpement-durable.gouv.fr/carte-interactive-1"

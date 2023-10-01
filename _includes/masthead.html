@@ -1,4 +1,5 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
+{% capture city_logo_path %}{{ site.city_logo }}{% endcapture %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -6,6 +7,9 @@
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+        {% endunless %}
+        {% unless city_logo_path == empty %}
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ city_logo_path | relative_url }}" alt="ville de Quimper"></a>
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title }}
