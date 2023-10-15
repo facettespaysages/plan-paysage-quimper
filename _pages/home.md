@@ -9,29 +9,29 @@ header:
 excerpt: "Une démarche volontaire lancée par la ville de Quimper, qui invite les habitants et acteurs de son territoire à porter un nouveau regard sur sa géographie, ses ressources et ses fonctionnalités pour en préserver ses qualités et restaurer ses paysages. Imaginer ensemble Quimper demain !"
 carousels:
   - images:
-    - url: /assets/images/croquis1_baie_odet.webp
+    - url: /assets/images/thumbnails/homecroquis1_baie_odet.webp
       caption: "Baie de l'Odet depuis Creac'h Gwen"
-    - url: /assets/images/croquis2_kervalguen_2.webp
+    - url: /assets/images/thumbnails/homecroquis2_kervalguen_2.webp
       caption: "Nouveau quartier de Kervalguen"
-    - url: /assets/images/croquis2_kervalguen.webp
+    - url: /assets/images/thumbnails/homecroquis2_kervalguen.webp
       caption: "Ancienne voie ferrée désaffectée reliant Pont-l'Abbé à Quimper"
-    - url: /assets/images/croquis3_kerbenez.webp
+    - url: /assets/images/thumbnails/homecroquis3_kerbenez.webp
       caption: "Voie privée menant au château de Kerbenez"
-    - url: /assets/images/croquis4_moulinvert.webp
+    - url: /assets/images/thumbnails/homecroquis4_moulinvert.webp
       caption: "Ouverture du Steïr dans le quartier du Moulin Vert"
-    - url: /assets/images/croquis4_routearbrechapon.webp
+    - url: /assets/images/thumbnails/homecroquis4_routearbrechapon.webp
       caption: "Alignement remarquable de Hêtres sur la route de l'Arbre au Chapon"
-    - url: /assets/images/croquis5_stangala.webp
+    - url: /assets/images/thumbnails/homecroquis5_stangala.webp
       caption: "Belvédère sur les gorges de l'Odet au Stangala"
-    - url: /assets/images/croquis6_frugy.webp
+    - url: /assets/images/thumbnails/homecroquis6_frugy.webp
       caption: "Ouverture visuelle sur la vallée du Steïr depuis le Mont Frugy"
-    - url: /assets/images/croquis7_frugy.webp
+    - url: /assets/images/thumbnails/homecroquis7_frugy.webp
       caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
-    - url: /assets/images/croquis8_frugy.webp
+    - url: /assets/images/thumbnails/homecroquis8_frugy.webp
       caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
-    - url: /assets/images/croquis8_lineostic.webp
+    - url: /assets/images/thumbnails/homecroquis8_lineostic.webp
       caption: "Depuis le nouveau quartier Liénostic, perspective sur le plateau bocager sud"
-    - url: /assets/images/croquis9_troyalach.webp
+    - url: /assets/images/thumbnails/homecroquis9_troyalach.webp
       caption: "Entrée de ville de Troyalac'h"
 intro: 
   - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations".
@@ -59,8 +59,8 @@ feature_row:
     btn_label: "En prendre connaissance"
     btn_class: "btn--primary"
 gallery:
-  - url: /assets/images/frise_chronologique.webp
-    image_path: /assets/images/frise_chronologique.webp
+  - url: /assets/images/home/frise_chronologique.webp
+    image_path: /assets/images/home/frise_chronologique.webp
     alt: "Frise chronologique"
 ---
 
