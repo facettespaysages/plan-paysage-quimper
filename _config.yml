@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "/assets/images/ppq_logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 logo_footer              : "/assets/images/thumbnails/Logo_Facettes_Paysages_Txt-bas_blanc.png"
 city_logo                : "/assets/images/thumbnails/partenaires/Ville_Quimper.webp"
-city_logo_footer         : "/assets/images/partenaires/ville_quimper_blanc.png"
+city_logo_footer         : "/assets/images/partenaires/ville_quimper_blanc.webp"
 masthead_title           : "Plan de paysage de Quimper" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

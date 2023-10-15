@@ -3,9 +3,9 @@ title: Facettes Paysages
 excerpt: Paysagiste conceptrice
 incubator: maitres_oeuvre
 header:
-  teaser: /assets/images/partenaires/Facettes_Paysages.jpg
+  teaser: /assets/images/thumbnails/partenaires/Facettes_Paysages.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/Facettes_Paysages.jpg
+  overlay_image: /assets/images/partenaires/Facettes_Paysages.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"
