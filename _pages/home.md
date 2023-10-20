@@ -81,7 +81,7 @@ feature_row_2:
 Calendrier de l'étude
 {% include gallery %}
 
-Afin de vous permettre de contribuer à ce plan de paysage, de nombreux temps d’échange seront organisés tout au long de la démarche : d’octobre 2023 à septembre 2025 ! Alors, n'hésitez pas à vous inscrire à la newsletter pour recevoir l'ensemble des informations !
+Afin de vous permettre de contribuer à ce plan de paysage, de nombreux temps d’échange seront organisés tout au long de la démarche : d’octobre 2023 à juin 2025 ! Alors, n'hésitez pas à vous inscrire à la newsletter pour recevoir l'ensemble des informations !
 
 {% include feature_row id="feature_row_2" type="center" %}
 
