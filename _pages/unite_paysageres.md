@@ -1,11 +1,11 @@
 ---
 title: Diagnostic
 seo_title: Diagnostic
-layout: collection
+layout: splash
 permalink: /unites_paysageres/
 collection: unites_paysageres
-entries_layout: grid
-classes: wide
+#entries_layout: grid
+#classes: wide
 feature_row_2:
   - title: "Votre participation à la galerie photographique"
     excerpt: " Dès octobre 2023, partagez votre vision du territoire et envoyez nous des photos de vos lieux paysagers quimpérois favoris !"
