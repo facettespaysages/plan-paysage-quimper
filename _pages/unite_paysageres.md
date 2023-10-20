@@ -1,11 +1,17 @@
 ---
-title: Les Unités Paysagères
-seo_title: Unités Paysagères
+title: Diagnostic
+seo_title: Diagnostic
 layout: collection
 permalink: /unites_paysageres/
 collection: unites_paysageres
 entries_layout: grid
 classes: wide
+feature_row_2:
+  - title: "Votre participation à la galerie photographique"
+    excerpt: " Dès octobre 2023, partagez votre vision du territoire et envoyez nous des photos de vos lieux paysagers quimpérois favoris !"
+    url: "https://framaforms.org/un-plan-de-paysage-pour-quimper-1695744793"
+    btn_label: "Accéder au formulaire de participation"
+    btn_class: "btn--primary"
 intro:
   - image_path: /assets/images/ppq_logo.webp
     alt: "Le logo du Plan de paysage de Quimper une forme abstraite dessinée à l'aquarelle."
@@ -13,10 +19,12 @@ intro:
       Cette première phase de travail permettra de se saisir pleinement des enjeux territoriaux et paysagers de la commune et ses abords :
       comprendre les dynamiques et les tendances d’évolution des paysages de Quimper afin de mettre en exergue certaines fragilités 
       ou au contraire, certaines forces de ce qui la constitue. 
-      <br>
-      Dès octobre 2023, partagez votre vision du territoire et envoyez nous des photos de vos lieux paysagers quimpérois favoris !
-      <br>
-      Au printemps 2024 nous vous donnons rendez-vous pour une marche exploratoire. N'hésitez pas à vous inscrire à la newsletter pour avoir toutes les informations !
+      
+feature_row_3:
+  - title: "La marche exploratoire, à la découverte des paysages"
+    excerpt: "Au printemps 2024 nous vous donnons rendez-vous pour une marche exploratoire. N'hésitez pas à vous inscrire à la newsletter pour avoir toutes les informations !"
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row_2" type="center" %}
+{% include feature_row id="feature_row_3" type="center" %}

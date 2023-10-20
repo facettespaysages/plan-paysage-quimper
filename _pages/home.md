@@ -43,7 +43,7 @@ intro:
     btn_label: "Découvrir la carte interactive"
     btn_class: "btn--primary"
 feature_row:
-  - title: "Unités Paysagères"
+  - title: "Diagnostic"
     excerpt: "Description des unités paysagères qui constituent Quimper"
     url: "/unites_paysageres/"
     btn_label: "Les découvrir"
@@ -62,6 +62,12 @@ gallery:
   - url: /assets/images/home/frise_chronologique.webp
     image_path: /assets/images/home/frise_chronologique.webp
     alt: "Frise chronologique"
+feature_row_2:
+  - title: "Votre participation à la galerie photographique"
+    excerpt: " Partagez votre vision du territoire et envoyez nous des photos de vos lieux paysagers quimpérois favoris !"
+    url: "https://framaforms.org/un-plan-de-paysage-pour-quimper-1695744793"
+    btn_label: "Accéder au formulaire de participation"
+    btn_class: "btn--primary"
 ---
 
 {% include carousel.html height="50" unit="%" duration="30" number="1" %}
@@ -76,6 +82,8 @@ Calendrier de l'étude
 {% include gallery %}
 
 Afin de vous permettre de contribuer à ce plan de paysage, de nombreux temps d’échange seront organisés tout au long de la démarche : d’octobre 2023 à septembre 2025 ! Alors, n'hésitez pas à vous inscrire à la newsletter pour recevoir l'ensemble des informations !
+
+{% include feature_row id="feature_row_2" type="center" %}
 
 <script>
 
