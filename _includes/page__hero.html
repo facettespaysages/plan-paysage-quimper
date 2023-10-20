@@ -34,7 +34,7 @@
         {% if paginator and site.paginate_show_page_num %}
         {{ site.subtitle }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
-        <i>{{ page.subtitle | default: site.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</i>
+        {{ page.subtitle | default: site.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h2>
       {% if page.tagline %}
