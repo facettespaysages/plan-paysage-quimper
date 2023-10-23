@@ -1,9 +1,9 @@
 <div class="carousel__holder">
   <div class="main-gallery js-flickity"
-       data-flickity-options='{ "cellAlign": "center", "lazyLoad": 2, "pageDots": false}'>
+       data-flickity-options='{ "cellAlign": "center", "lazyLoad": 1, "pageDots": false}'>
     {% for item in page.carousels[0].images %}
     <div class="carousel-cell">
-      <img data-flickity-lazyload="{{item.url}}" alt="{{item.caption}}">
+      <img data-flickity-lazyload="{{item.url}}" alt="{{item.caption}}" width={{item.width}} height={{item.height}}>
       {% if item.caption %}
       <span class="archive__item-caption">{{ item.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
       {% endif %}

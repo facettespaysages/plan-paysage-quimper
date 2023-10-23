@@ -11,28 +11,52 @@ carousels:
   - images:
     - url: /assets/images/thumbnails/home/croquis1_baie_odet.webp
       caption: "Baie de l'Odet depuis Creac'h Gwen"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis2_kervalguen_2.webp
       caption: "Nouveau quartier de Kervalguen"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis2_kervalguen.webp
       caption: "Ancienne voie ferrée désaffectée reliant Pont-l'Abbé à Quimper"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis3_kerbenez.webp
       caption: "Voie privée menant au château de Kerbenez"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis4_moulinvert.webp
       caption: "Ouverture du Steïr dans le quartier du Moulin Vert"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis4_routearbrechapon.webp
       caption: "Alignement remarquable de Hêtres sur la route de l'Arbre au Chapon"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis5_stangala.webp
       caption: "Belvédère sur les gorges de l'Odet au Stangala"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis6_frugy.webp
       caption: "Ouverture visuelle sur la vallée du Steïr depuis le Mont Frugy"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis7_frugy.webp
       caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis8_frugy.webp
       caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis8_lineostic.webp
       caption: "Depuis le nouveau quartier Liénostic, perspective sur le plateau bocager sud"
+      width: 1000
+      height: 707
     - url: /assets/images/thumbnails/home/croquis9_troyalach.webp
       caption: "Entrée de ville de Troyalac'h"
+      width: 1000
+      height: 707
 intro: 
   - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations".
    <br>
