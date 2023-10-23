@@ -86,6 +86,8 @@ gallery:
   - url: /assets/images/home/frise_chronologique.webp
     image_path: /assets/images/home/frise_chronologique.webp
     alt: "Frise chronologique"
+    width: 1000
+    height: 286
 feature_row_2:
   - title: "Votre participation à la galerie photographique"
     excerpt: " Partagez votre vision du territoire et envoyez nous des photos de vos lieux paysagers quimpérois favoris !"
