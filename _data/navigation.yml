@@ -10,5 +10,7 @@ main:
      url:  /programme_actions/
    - title: "Partenaires"
      url: /partenaires/
+   - title: "Formulaire galerie photographique"
+     url: /formulaire/
    - title: "Contact"
      url: /contact/
