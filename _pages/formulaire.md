@@ -1,8 +1,8 @@
 ---
 layout: splash
 permalink: /formulaire/
-title:  "Enquête Plan de Paysage"
-seo_title: Contact
+title:  "Formulaire galerie photographique"
+seo_title: "Formulaire galerie photographique"
 header:
   overlay_image: /assets/images/contact.webp
   overlay_filter: 0.5
