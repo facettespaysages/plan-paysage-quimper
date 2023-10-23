@@ -70,7 +70,7 @@ feature_row_2:
     btn_class: "btn--primary"
 ---
 
-{% include carousel.html height="50" unit="%" duration="30" number="1" %}
+{% include flickity.html %}
 
 {% include feature_row id="intro" type="center" %}
 
