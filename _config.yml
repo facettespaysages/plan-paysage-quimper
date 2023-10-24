@@ -345,3 +345,7 @@ defaults:
       wide: true
       author_profile: false
       share: true
+  - scope:
+      path: "**/README.md"
+    values:
+      sitemap: false
