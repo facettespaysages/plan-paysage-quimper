@@ -1,5 +1,7 @@
 # main links
 main:
+   - title: "Formulaire 📋"
+     url: /formulaire/
    - title: "Actualités"
      url: /category/actualités/
    - title: "Diagnostic"
@@ -10,7 +12,5 @@ main:
      url:  /programme_actions/
    - title: "Partenaires"
      url: /partenaires/
-   - title: "Formulaire"
-     url: /formulaire/
    - title: "Contact"
      url: /contact/
