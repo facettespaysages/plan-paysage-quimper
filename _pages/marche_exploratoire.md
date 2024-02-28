@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /formulaire/
+permalink: /marche_exploratoire/
 title:  "Marches exploratoires"
 seo_title: "Marches exploratoires"
 header:
