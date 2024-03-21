@@ -57,6 +57,12 @@ carousels:
       caption: "Entrée de ville de Troyalac'h"
       width: 1000
       height: 707
+marche:
+  - title: "Inscription marches exploratoires"
+    excerpt: " Participez aux marches exploratoires, rendez-vous le samedi 06 avril 2024 !"
+    url: "/marches_exploratoires/"
+    btn_label: "Inscription"
+    btn_class: "btn--primary"
 intro: 
   - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations".
    <br>
@@ -95,6 +101,7 @@ feature_row_2:
     btn_label: "Accéder au formulaire de participation"
     btn_class: "btn--primary"
 ---
+{% include feature_row id="marche" type="center" %}
 
 {% include flickity.html %}
 
