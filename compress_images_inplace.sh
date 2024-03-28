@@ -12,37 +12,37 @@ read -p 'Voulez-vous transformer tous les fichiers en HEIC pour un meilleur resu
 
 if ! [[ "$yesnoheic" =~ ^Oui$ ]]
 then
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 *.HEIC); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 *.c); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 *.JPEG); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 *.jpeg); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 *.JPG); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 *.jpg); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 *.PNG); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 *.png); done
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 *.HEIC
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 *.heic
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 *.JPEG
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 *.jpeg
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 *.JPG
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 *.jpg
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 *.PNG
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 *.png
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 *.HEIC); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 *.c); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 *.JPEG); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 *.jpeg); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 *.JPG); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 *.jpg); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 *.PNG); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 *.png); done
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 *.HEIC
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 *.heic
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 *.JPEG
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 *.jpeg
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 *.JPG
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 *.jpg
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 *.PNG
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 *.png
 else
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.HEIC); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.c); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.JPEG); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.jpeg); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.JPG); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.jpg); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.PNG); done
-  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.png); done
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.HEIC
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.heic
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.JPEG
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.jpeg
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.JPG
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.jpg
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.PNG
-  magick mogrify -resize 2560x2560 -quality 85 -density 150 -format HEIC *.png
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.HEIC); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.c); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.JPEG); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.jpeg); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.JPG); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.jpg); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.PNG); done
+  for d in ./*/ ; do (cd "$d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.png); done
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.HEIC
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.heic
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.JPEG
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.jpeg
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.JPG
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.jpg
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.PNG
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.png
 fi
