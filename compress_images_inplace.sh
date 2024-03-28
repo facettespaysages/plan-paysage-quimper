@@ -8,7 +8,7 @@ then
     exit 0
 fi
 
-read -p 'Voulez-vous transformer tous les fichiers en HEIC pour un meilleur resultat ? (Oui/non) ' yesnoheic
+read -p 'Voulez-vous transformer tous les fichiers en JPG pour un meilleur resultat ? (Oui/non) ' yesnoheic
 
 if ! [[ "$yesnoheic" =~ ^Oui$ ]]
 then
@@ -29,20 +29,20 @@ then
   magick mogrify -resize 2560x2560 -quality 85 -density 72 *.PNG
   magick mogrify -resize 2560x2560 -quality 85 -density 72 *.png
 else
-  for d in ./*/ ; do (cd "$d" && echo "starting to compress HEIC in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.HEIC); done
-  for d in ./*/ ; do (cd "$d" && echo "starting to compress heic in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.heic); done
-  for d in ./*/ ; do (cd "$d" && echo "starting to compress JPEG in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.JPEG); done
-  for d in ./*/ ; do (cd "$d" && echo "starting to compress jpeg in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.jpeg); done
-  for d in ./*/ ; do (cd "$d" && echo "starting to compress JPG in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.JPG); done
-  for d in ./*/ ; do (cd "$d" && echo "starting to compress jpg in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.jpg); done
-  for d in ./*/ ; do (cd "$d" && echo "starting to compress PNG in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.PNG); done
-  for d in ./*/ ; do (cd "$d" && echo "starting to compress png in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.png); done
-  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.HEIC
-  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.heic
-  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.JPEG
-  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.jpeg
-  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.JPG
-  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.jpg
-  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.PNG
-  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format HEIC *.png
+  for d in ./*/ ; do (cd "$d" && echo "starting to compress HEIC in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.HEIC); done
+  for d in ./*/ ; do (cd "$d" && echo "starting to compress heic in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.heic); done
+  for d in ./*/ ; do (cd "$d" && echo "starting to compress JPEG in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.JPEG); done
+  for d in ./*/ ; do (cd "$d" && echo "starting to compress jpeg in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.jpeg); done
+  for d in ./*/ ; do (cd "$d" && echo "starting to compress JPG in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.JPG); done
+  for d in ./*/ ; do (cd "$d" && echo "starting to compress jpg in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.jpg); done
+  for d in ./*/ ; do (cd "$d" && echo "starting to compress PNG in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.PNG); done
+  for d in ./*/ ; do (cd "$d" && echo "starting to compress png in $d" && magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.png); done
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.HEIC
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.heic
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.JPEG
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.jpeg
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.JPG
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.jpg
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.PNG
+  magick mogrify -resize 2560x2560 -quality 85 -density 72 -format JPG *.png
 fi
