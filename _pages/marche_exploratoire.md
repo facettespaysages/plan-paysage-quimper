@@ -1,15 +1,15 @@
 ---
 layout: splash
 permalink: /marches_exploratoires/
-title:  "Participez aux marches exploratoires !"
+title:  "Les marches exploratoires"
 seo_title: "Rendez-vous le samedi 06 avril 2024 à Quimper pour les marches exploratoires !"
 header:
   overlay_image: /assets/images/marche.webp
   overlay_filter: 0.5
-excerpt: "Rendez-vous le samedi 06 avril 2024 ! Inscription en bas de la page."
+excerpt: "Rendez-vous le samedi 06 avril 2024 !"
 ---
 
-Vous avez nombreux à répondre présents pour participer à cette journée d'exploration ! Les inscriptions sont clôturées. Merci de votre compréhension.
+Vous avez été nombreux à répondre présents pour cette journée d'exploration ! Les inscriptions sont clôturées. Merci de votre compréhension.
 ![carte_marche_exploratoire.webp](/assets/images/carte_marche_exploratoire.webp)
 
-<iframe src="https://framaforms.org/inscription-aux-marches-exploratoires-1709111925" width="100%" height="800" border="0"></iframe>
+
