@@ -101,7 +101,7 @@ feature_row_2:
     btn_label: "Accéder au formulaire de participation"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="marche" type="center" %}
+{% include feature_row id="fresque" type="center" %}
 
 {% include flickity.html %}
 

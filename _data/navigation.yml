@@ -2,8 +2,8 @@
 main:
    - title: "Formulaire 📋"
      url: /formulaire/
-   - title: "Marches exploratoires 📋"
-     url: /marches_exploratoires/
+   - title: "Fresque paysagère 📋"
+     url: /fresque_paysagere/
    - title: "Actualités"
      url: /category/actualités/
    - title: "Diagnostic"
