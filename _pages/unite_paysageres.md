@@ -26,51 +26,40 @@ feature_row_3:
 
 carousels:
   - images:
-      - url: /assets/images/marches/marche1.jpg
+      - url: /assets/images/marches/marche1.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis2_kervalguen_2.webp
-        caption: "Nouveau quartier de Kervalguen"
+      - url: /assets/images/marches/marche2.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis2_kervalguen.webp
-        caption: "Ancienne voie ferrée désaffectée reliant Pont-l'Abbé à Quimper"
+      - url: /assets/images/marches/marche3.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis3_kerbenez.webp
-        caption: "Voie privée menant au château de Kerbenez"
+      - url: /assets/images/marches/marche4.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis4_moulinvert.webp
-        caption: "Ouverture du Steïr dans le quartier du Moulin Vert"
+      - url: /assets/images/marches/marche5.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis4_routearbrechapon.webp
-        caption: "Alignement remarquable de Hêtres sur la route de l'Arbre au Chapon"
+      - url: /assets/images/marches/marche6.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis5_stangala.webp
-        caption: "Belvédère sur les gorges de l'Odet au Stangala"
+      - url: /assets/images/marches/marche7.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis6_frugy.webp
-        caption: "Ouverture visuelle sur la vallée du Steïr depuis le Mont Frugy"
+      - url: /assets/images/marches/marche8.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis7_frugy.webp
-        caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
+      - url: /assets/images/marches/marche9.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis8_frugy.webp
-        caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
+      - url: /assets/images/marches/marche10.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis8_lineostic.webp
-        caption: "Depuis le nouveau quartier Liénostic, perspective sur le plateau bocager sud"
+      - url: /assets/images/marches/marche11.webp
         width: 1000
         height: 707
-      - url: /assets/images/thumbnails/home/croquis9_troyalach.webp
-        caption: "Entrée de ville de Troyalac'h"
+      - url: /assets/images/marches/marche12.webp
         width: 1000
         height: 707
 ---
