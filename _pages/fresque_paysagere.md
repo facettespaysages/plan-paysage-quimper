@@ -13,7 +13,7 @@ Dans le cadre du plan paysage, Quimper organise une fresque paysagère pour rêv
 A travers trois thèmes, vous pourrez laisser libre cours à vos idées ! A vos plumes et vos idées !
 
 fresque:
-  - title: "Inscription fresque paysagère"
+- title: "Inscription fresque paysagère"
     excerpt: "A l'occasion du temps de l'arbre, participez à la fresque paysagère, rendez-vous le samedi 05 octobre 2024 !"
     url: "https://framaforms.org/inscriptions-a-la-fresque-paysagere-1722260104"
     btn_label: "Inscription"
