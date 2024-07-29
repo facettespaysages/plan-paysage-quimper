@@ -57,10 +57,10 @@ carousels:
       caption: "Entrée de ville de Troyalac'h"
       width: 1000
       height: 707
-marche:
-  - title: "Inscription marches exploratoires"
-    excerpt: " Participez aux marches exploratoires, rendez-vous le samedi 06 avril 2024 !"
-    url: "/marches_exploratoires/"
+fresque:
+  - title: "Inscription fresque paysagère"
+    excerpt: " Participez à la fresque paysagère, rendez-vous le samedi 05 octobre 2024 !"
+    url: "/fresque_paysagere/"
     btn_label: "Inscription"
     btn_class: "btn--primary"
 intro: 
