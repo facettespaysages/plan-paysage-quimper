@@ -22,7 +22,7 @@ intro:
       
 feature_row_3:
   - title: "La marche exploratoire, à la découverte des paysages"
-    excerpt: "Au printemps 2024 nous vous donnons rendez-vous pour une marche exploratoire. N'hésitez pas à vous inscrire à la newsletter pour avoir toutes les informations !"
+    excerpt: "En avril 2024 nous avons une centaine de participants pour les six marches exploratoires à travers toute la commune ! L'occasion de lire les paysages quimpérois et de partager des points de vue sur les modes de vie actuels et futurs."
 ---
 
 {% include feature_row id="intro" type="center" %}
