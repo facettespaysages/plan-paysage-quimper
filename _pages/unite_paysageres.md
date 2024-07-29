@@ -78,3 +78,5 @@ carousels:
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_2" type="center" %}
 {% include feature_row id="feature_row_3" type="center" %}
+
+{% include gallery %}
