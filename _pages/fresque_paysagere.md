@@ -4,7 +4,7 @@ permalink: /fresque_paysagere/
 title:  "La fresque paysagère"
 seo_title: "A l'occasion du temps de l'arbre, rendez-vous le samedi 05 octobre 2024 à Quimper pour rêver l'avenir !"
 header:
-  overlay_image: /assets/images/fresque.jpg
+  overlay_image: /assets/images/fresque.webp
   overlay_filter: 0.5
 excerpt: "Rendez-vous le samedi 05 octobre 2024 !"
 ---
