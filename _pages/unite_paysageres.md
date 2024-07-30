@@ -16,13 +16,13 @@ intro:
   - image_path: /assets/images/ppq_logo.webp
     alt: "Le logo du Plan de paysage de Quimper une forme abstraite dessinée à l'aquarelle."
     excerpt: |
-      Cette première phase de travail permettra de se saisir pleinement des enjeux territoriaux et paysagers de la commune et ses abords :
-      comprendre les dynamiques et les tendances d’évolution des paysages de Quimper afin de mettre en exergue certaines fragilités 
+      Cette première phase de l'étude permet de se saisir pleinement les enjeux territoriaux et paysagers de la commune et ses abords :
+      comprendre les dynamiques et les tendances d’évolution des paysages de Quimper afin de mettre en évidence certaines fragilités 
       ou au contraire, certaines forces de ce qui la constitue. 
       
 feature_row_3:
   - title: "Les marches exploratoires, à la découverte des paysages"
-    excerpt: "En avril 2024 nous avons une centaine de participants pour les six marches exploratoires à travers toute la commune ! L'occasion de lire les paysages quimpérois et de partager des points de vue sur les modes de vie actuels et futurs."
+    excerpt: "En avril 2024 nous avons été une centaine de participants à arpenter la commune, des collines boisées de Penhars, à la vallée du Steïr, en passant par Kerfeunteun, la pointe du Corniguel et Ergué-Armel. A l'occasion de ces marches exploratoires, nous avons dessiné, partagé nos lectures des paysages quimpérois. L'occasion de vous présenter les photos prises sur le vif avec les appareils photos mis à dispostion !"
 
 carousels:
   - images:
