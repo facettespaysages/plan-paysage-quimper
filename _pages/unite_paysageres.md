@@ -345,3 +345,7 @@ carousels:
 {% include feature_row id="feature_row_3" type="center" %}
 
 {% include flickity.html %}
+
+![Marche exploratoire](/assets/pdf/240517_PPQ_Phase1_COPIL.pdf)
+
+<embed src="https://belovanna.github.io/assets/pdf/240517_PPQ_Phase1_COPIL.pdf" type="application/pdf" />
