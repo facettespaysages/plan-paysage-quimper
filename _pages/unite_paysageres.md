@@ -346,8 +346,4 @@ carousels:
 
 {% include flickity.html %}
 
-![Marche exploratoire](/assets/pdf/240517_PPQ_Phase1_COPIL.pdf)
-
-<embed src="/assets/pdf/240517_PPQ_Phase1_COPIL.pdf" type="application/pdf" />
-
 <object data="/assets/pdf/240517_PPQ_Phase1_COPIL.pdf" width="1000" height="1000" type='application/pdf'></object>
