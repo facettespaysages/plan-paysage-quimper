@@ -23,6 +23,86 @@ intro:
 feature_row_3:
   - title: "Les marches exploratoires, à la découverte des paysages"
     excerpt: "En avril 2024 nous avons été une centaine de participants à arpenter la commune, des collines boisées de Penhars, à la vallée du Steïr, en passant par Kerfeunteun, la pointe du Corniguel et Ergué-Armel. A l'occasion de ces marches exploratoires, nous avons dessiné, partagé nos lectures des paysages quimpérois. L'occasion de vous présenter les photos prises sur le vif avec les appareils photos mis à dispostion !"
+carousels:
+  - images:
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches.jpg
+        width: 1000
+        height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches2.jpg
+        width: 1000
+        height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches3.jpg
+        width: 1000
+        height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches4.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches5.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches6.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches7.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches8.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches9.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches10.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches11.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches12.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches13.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches14.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches15.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches16.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches17.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches18.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches19.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches20.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches21.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches22.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches23.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches24.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches25.jpg
+      width: 1000
+      height: 707
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches26.jpg
+      width: 1000
+      height: 707
 
 carousels:
   - images:
