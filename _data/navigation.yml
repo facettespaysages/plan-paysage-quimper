@@ -1,17 +1,17 @@
 # main links
 main:
-   - title: "Formulaire 📋"
-     url: /formulaire/
    - title: "Fresque paysagère 📋"
      url: /fresque_paysagere/
-   - title: "Actualités"
-     url: /category/actualités/
    - title: "Diagnostic"
      url:  /unites_paysageres/
+   - title: "Actualités"
+     url: /category/actualités/
    - title: "Stratégie paysagère"
      url:  /strategie_paysagere/
    - title: "Programme d'actions"
      url:  /programme_actions/
+   - title: "Formulaire 📋"
+     url: /formulaire/
    - title: "Partenaires"
      url: /partenaires/
    - title: "Contact"

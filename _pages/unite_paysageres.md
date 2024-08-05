@@ -68,197 +68,197 @@ feature_row_5:
     excerpt: "Lors des marches exploratoires, des appareils photos ont été mis à disposition. Voici un aperçu des points de vues pris sur le vif !"
 carousels:
   - images:
-      - url: /assets/images/diagnostic/PPQ_DIAG.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG2.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG2.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG3.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG3.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG4.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG4.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG5.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG5.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG6.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG6.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG7.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG7.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG8.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG8.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG9.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG9.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG10.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG10.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG11.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG11.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG12.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG12.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG13.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG13.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG14.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG14.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG15.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG15.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG16.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG16.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG17.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG17.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG18.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG18.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG19.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG19.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG20.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG20.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG21.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG21.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG22.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG22.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG23.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG23.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG24.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG24.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG25.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG25.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG26.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG26.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG27.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG27.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG28.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG28.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG29.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG29.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG30.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG30.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG31.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG31.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG32.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG32.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG33.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG33.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG34.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG34.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG35.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG35.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG36.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG36.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG37.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG37.webp
         width: 1000
         height: 707
-      - url: /assets/images/diagnostic/PPQ_DIAG38.jpg
+      - url: /assets/images/diagnostic/PPQ_DIAG38.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches2.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches2.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches3.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches3.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches4.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches4.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches5.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches5.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches6.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches6.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches7.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches7.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches8.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches8.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches9.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches9.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches10.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches10.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches11.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches11.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches12.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches12.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches13.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches13.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches14.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches14.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches15.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches15.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches16.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches16.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches17.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches17.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches18.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches18.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches19.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches19.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches20.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches20.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches21.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches21.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches22.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches22.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches23.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches23.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches24.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches24.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches25.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches25.webp
         width: 1000
         height: 707
-      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches26.jpg
+      - url: /assets/images/marches_croquis/PPQ_DIAG_Marches26.webp
         width: 1000
         height: 707
   - images:
