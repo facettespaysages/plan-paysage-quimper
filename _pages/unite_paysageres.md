@@ -425,5 +425,3 @@ carousels:
 {% include feature_row id="feature_row_3" type="center" %}
 
 {% include flickity.html %}
-
-<object data="/assets/pdf/240517_PPQ_Phase1_COPIL.pdf" width="1000" height="1000" type='application/pdf'></object>
