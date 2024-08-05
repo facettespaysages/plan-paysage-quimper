@@ -8,21 +8,64 @@ collection: unites_paysageres
 #classes: wide
 feature_row_2:
   - title: "Votre participation à la galerie photographique"
-    excerpt: " Dès octobre 2023, partagez votre vision du territoire et envoyez nous des photos de vos lieux paysagers quimpérois favoris !"
+    excerpt: " Depuis octobre 2023, nous vous proposons de nous partager votre vision du territoire. Envoyez-nous des photos de vos lieux paysagers quimpérois favoris !"
     url: "https://framaforms.org/un-plan-de-paysage-pour-quimper-1695744793"
     btn_label: "Accéder au formulaire de participation"
     btn_class: "btn--primary"
 intro:
-  - image_path: /assets/images/ppq_logo.webp
-    alt: "Le logo du Plan de paysage de Quimper une forme abstraite dessinée à l'aquarelle."
+  - title: "Analyser et comprendre les paysages de Quimper"
     excerpt: |
-      Cette première phase de l'étude permet de se saisir pleinement les enjeux territoriaux et paysagers de la commune et ses abords :
+      Cette première phase d'étude permet de saisir les enjeux territoriaux et paysagers de la commune et ses abords :
       comprendre les dynamiques et les tendances d’évolution des paysages de Quimper afin de mettre en évidence certaines fragilités 
       ou au contraire, certaines forces de ce qui la constitue. 
-      
+      <br>
+      <br>
+      Le diagnostic porte sur la définition des unités paysagères. Trois questions ont été posées pour dessiner les contours de chacune d’entre elles.
+      <br>
+      <br>
+      <B>Qu’est-ce qui caractérise Quimper ?</B>
+      <br>
+      <br>
+      En partant du socle géologique et hydrologique, qu’est-ce qui caractérise le territoire ? Retrouve-t-on des ambiances similaires entre les différents cours d’eau ou au contraire, est-ce que chacun d’entre eux exprime une ambiance particulière ? A-t-on des points de vue privilégiés sur ces qualités, qui rendent compte de ces différences ?
+      <br>
+      <br>
+      <B>Comment préserver la qualité des vallons et des vallées avec une densification certaine du territoire ?</B>
+      <br>
+      <br>
+      Quimper est attractive et va continuer à attirer des habitants dans les prochaines années. Son cadre de vie repose en partie sur sa proximité à l’océan et à la campagne environnante.
+      Dans cette logique d’attractivité territoriale, comment préserver et améliorer ce cadre tant recherché par les habitants actuels et futurs ?
+      Les espaces de récréation et de détente sont de différentes natures et assez nombreux dans la commune, ils sont complémentaires. Comment s’y rend-on ? Le maillage existant des circulations douces -vélos, piétons- propose des boucles intéressantes mais des perméabilités sont manquantes à travers les différents quartiers de la ville.
+      Quelle harmonie trouver entre la densification urbaine certaine du territoire et ces espaces ouverts, récréatifs ?
+      <br>
+      <br>
+      <B>La définition des unités paysagères</B>
+      <br>
+      <br>
+      En partant du socle géomorphologique avec les cours d’eau, les confluences, les limites des bassins versants ont été affinées avec l’identification des axes structurants, les voies ferrées, les routes majeures, les départementales.
+      Les grandes structures paysagères emblématiques, les éléments repères ont été identifiés à travers la commune et précisent la qualité de chaque unité paysagère. Les rencontres organisées avec les différents acteurs participant au quotidien de la commune -élus, techniciens, partenaires de la ville et habitants- ont précisé les éléments incontournables, tant les structures paysagères anthropisées, végétales que naturelles. Le génie du lieu est ainsi mis en évidence pour chaque unité paysagère.
+
 feature_row_3:
+  - title: "Les unités paysagères de Quimper"
+    excerpt: "Le territoire quimpérois est défini par douze unités paysagères. Elles peuvent être regroupées en quatre grands ensembles :
+    <br>
+    <br>
+    <B>l’Odet intérieur</B>, regroupant quatre unités situées à l’Est du centre-ville : la vallée du Jet, les gorges de l’Odet, la vallée du Frout, l’Odet et le plateau d’Ergué-Armel
+    <br>
+    <br>
+    <B>l’Odet urbain</B>, représenté par la ville fortifiée et les quais de l’Odet maritime
+    <br>
+    <br>
+    <B>la vallée du Steïr</B>, regroupant les affluents de cette rivière structurante : le Steïr habité, le plateau agricole, le vallon de Kermabeuzen
+    <br>
+    <br>
+    <B>l’Odet maritime</B>, regroupant les parties du territoire orientées sur l’affluence maritime, donnant à voir ces qualités depuis différents points de vue (en belvédère, au plus près de l’eau salée, dans les vallons saumâtres) : les collines boisées de Penhars, la ria de l'Odet, les vallons bocagers de Saint-Cadou."
+
+feature_row_4:
   - title: "Les marches exploratoires, à la découverte des paysages"
-    excerpt: "En avril 2024 nous avons été une centaine de participants à arpenter la commune, des collines boisées de Penhars, à la vallée du Steïr, en passant par Kerfeunteun, la pointe du Corniguel et Ergué-Armel. A l'occasion de ces marches exploratoires, nous avons dessiné, partagé nos lectures des paysages quimpérois. L'occasion de vous présenter les photos prises sur le vif avec les appareils photos mis à dispostion !"
+    excerpt: "En avril 2024 nous avons été une centaine de participants à arpenter la commune, des collines boisées de Penhars, à la vallée du Steïr, en passant par Kerfeunteun, la pointe du Corniguel et Ergué-Armel. A travers des lectures de paysages commentées et partagées, les participants ont dessiné les éléments paysagers structurants."
+feature_row_5:
+  - title: "Des points de vue sensibles sur la commune, saisis par les participants"
+    excerpt: "Lors des marches exploratoires, des appareils photos ont été mis à disposition. Voici un aperçu des points de vues pris sur le vif !"
 carousels:
   - images:
       - url: /assets/images/diagnostic/PPQ_DIAG.jpg
@@ -534,13 +577,19 @@ carousels:
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="feature_row_2" type="center" %}
 
-
-{% include flickity.html %}
-
-{% include flickity_2.html %}
+![carte_unites_paysageres.webp](/assets/images/diagnostic/UP.webp)
 
 {% include feature_row id="feature_row_3" type="center" %}
 
+{% include flickity.html %}
+
+{% include feature_row id="feature_row_4" type="center" %}
+
+{% include flickity_2.html %}
+
+{% include feature_row id="feature_row_5" type="center" %}
+
 {% include flickity_3.html %}
+
+{% include feature_row id="feature_row_2" type="center" %}
