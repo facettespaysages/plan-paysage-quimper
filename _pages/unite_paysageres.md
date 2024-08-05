@@ -535,10 +535,12 @@ carousels:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_2" type="center" %}
-{% include feature_row id="feature_row_3" type="center" %}
+
 
 {% include flickity.html %}
 
 {% include flickity_2.html %}
+
+{% include feature_row id="feature_row_3" type="center" %}
 
 {% include flickity_3.html %}
