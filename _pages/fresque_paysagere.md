@@ -9,7 +9,7 @@ header:
 excerpt: "Rendez-vous le samedi 5 octobre 2024 !"
 ---
 
-Dans le cadre de son Plan de Paysage, et à l'occasion du festval "Le temps de l'arbre", Quimper organise une fresque paysagère pour rêver l'avenir de la commune ! 
+Dans le cadre de son Plan de Paysage, et à l'occasion du festival "Le temps de l'arbre", Quimper organise une fresque paysagère pour rêver l'avenir de la commune ! 
 A travers trois thèmes, vous pourrez laisser libre cours à vos idées ! A vos plumes !
 
 <iframe src="https://framaforms.org/inscriptions-a-la-fresque-paysagere-1722260104" width="100%" height="800" border="0"></iframe>
