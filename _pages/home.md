@@ -59,7 +59,7 @@ carousels:
       height: 707
 fresque:
   - title: "Inscription fresque paysagère"
-    excerpt: " Participez à la fresque paysagère, rendez-vous le samedi 05 octobre 2024 !"
+    excerpt: " Participez à la fresque paysagère, rendez-vous le samedi 16 novembre 2024 !"
     url: "/fresque_paysagere/"
     btn_label: "Inscription"
     btn_class: "btn--primary"
