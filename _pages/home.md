@@ -58,9 +58,9 @@ carousels:
       width: 1000
       height: 707
 fresque:
-  - title: "Inscription fresque paysagère"
-    excerpt: " Participez à la fresque paysagère, rendez-vous le samedi 16 novembre 2024 !"
-    url: "/fresque_paysagere/"
+  - title: "Inscription concertation sur table"
+    excerpt: " Participez à la concertation sur table, rendez-vous le samedi 22 mars 2025 !"
+    url: "/concertation/"
     btn_label: "Inscription"
     btn_class: "btn--primary"
 intro: 
