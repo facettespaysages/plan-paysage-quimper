@@ -6,12 +6,6 @@ permalink: /unites_paysageres/
 collection: unites_paysageres
 #entries_layout: grid
 #classes: wide
-feature_row_2:
-  - title: "Votre participation à la galerie photographique"
-    excerpt: " Depuis octobre 2023, nous vous proposons de nous partager votre vision du territoire. Envoyez-nous des photos de vos lieux paysagers quimpérois favoris !"
-    url: "https://framaforms.org/un-plan-de-paysage-pour-quimper-1695744793"
-    btn_label: "Accéder au formulaire de participation"
-    btn_class: "btn--primary"
 intro:
   - title: "Analyser et comprendre les paysages de Quimper"
     excerpt: |
@@ -591,5 +585,3 @@ carousels:
 {% include feature_row id="feature_row_5" type="center" %}
 
 {% include flickity_3.html %}
-
-{% include feature_row id="feature_row_2" type="center" %}

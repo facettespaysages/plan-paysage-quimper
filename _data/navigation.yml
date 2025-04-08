@@ -1,7 +1,5 @@
 # main links
 main:
-   - title: "Concertation 📋"
-     url: /concertation/
    - title: "Diagnostic"
      url:  /unites_paysageres/
    - title: "Actualités"

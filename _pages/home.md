@@ -57,12 +57,6 @@ carousels:
       caption: "Entrée de ville de Troyalac'h"
       width: 1000
       height: 707
-fresque:
-  - title: "Inscription concertation sur table"
-    excerpt: " Participez à la concertation sur table, rendez-vous le samedi 22 mars 2025 !"
-    url: "/concertation/"
-    btn_label: "Inscription"
-    btn_class: "btn--primary"
 intro: 
   - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations".
    <br>
@@ -101,8 +95,6 @@ feature_row_2:
     btn_label: "Accéder au formulaire de participation"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="fresque" type="center" %}
-
 {% include flickity.html %}
 
 {% include feature_row id="intro" type="center" %}
