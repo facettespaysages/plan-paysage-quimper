@@ -7,6 +7,8 @@ header:
   overlay_image: /assets/images/marche.webp
   overlay_filter: 0.5
 excerpt: "Rendez-vous le samedi 25 octobre 2025 !"
+#entries_layout: grid
+#classes: wide
 ---
 
 ![gouterritoire.jpg](/assets/images/gouterritoire.jpg)
