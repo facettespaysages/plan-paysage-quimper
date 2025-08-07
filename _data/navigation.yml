@@ -1,5 +1,7 @@
 # main links
 main:
+   - title: "Goûterritoire"
+     url: /gouterritoire/
    - title: "Diagnostic"
      url:  /unites_paysageres/
    - title: "Actualités"
