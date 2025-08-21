@@ -4,8 +4,6 @@ main:
      url: /gouterritoire/
    - title: "Diagnostic"
      url:  /unites_paysageres/
-   - title: "Actualités"
-     url: /category/actualités/
    - title: "Stratégie paysagère"
      url:  /strategie_paysagere/
    - title: "Programme d'actions"
