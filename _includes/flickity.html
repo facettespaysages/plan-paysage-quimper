@@ -1,7 +1,6 @@
 <div class="carousel__holder">
   <div class="main-gallery js-flickity"
-       data-flickity-options='{ "cellAlign": "center", "lazyLoad": 5, "pageDots": false}'
-       data-flickity='{ "fullscreen": true }'>
+       data-flickity-options='{ "cellAlign": "center", "lazyLoad": 5, "pageDots": false, "fullscreen": true}'>
     {% for item in include.carousel.images %}
     <div class="carousel-cell">
       <img data-flickity-lazyload="{{item.url}}" alt="{{item.caption}}" width={{item.width}} height={{item.height}}>
