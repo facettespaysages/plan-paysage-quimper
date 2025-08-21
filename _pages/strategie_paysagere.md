@@ -97,3 +97,17 @@ carousels:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include flickity_4.html %}
+
+{% include feature_row id="feature_row_3" type="center" %}
+
+{% include flickity.html %}
+
+{% include feature_row id="feature_row_4" type="center" %}
+
+{% include flickity_2.html %}
+
+{% include feature_row id="feature_row_5" type="center" %}
+
+{% include flickity_3.html %}
