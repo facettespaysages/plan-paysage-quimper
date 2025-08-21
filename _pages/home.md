@@ -104,7 +104,6 @@ Ce plan de paysage est avant tout une étude contributive, où de nombreux temps
 
 
 <script>
-
 var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '© OpenStreetMap'
@@ -123,5 +122,4 @@ var map = L.map('map', {
          .addTo(map);
     {% endif %}
 {% endfor %}
-
 </script>
