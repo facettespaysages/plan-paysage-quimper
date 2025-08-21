@@ -86,16 +86,10 @@ feature_row_6:
   - title: "Les fresques paysagères"
     excerpt : "
     A l'occasion, l'étude a été nourrie du travail collaboratif organisé pendant les fresques paysagères en novembre 2024. L'atelier s'est déroulé dans la salle de réunion des Halles Saint-François, un samedi après-midi.
-    Les participants ont choisi la thématique sur laquelle ils allaient contribuer, par groupe de 8 à 10 personnes :
-    <br>
-    Quimper résiliente,
-    <br>
-    Quimper autosuffisante,
-    <br>
-    Quimper onirique.
+    Les participants ont choisi la thématique sur laquelle ils allaient contribuer, par groupe de 8 à 10 personnes : Quimper résiliente, Quimper autosuffisante et Quimper onirique.
     <br>
     <br>
-    Les participants ont contribué à l'étude en deux temps. Le premier, organisé en table ronde, a permi à chacune et chacun d'entre eux de s'exprimer sur la thématique. Ensuite, chaque fresque a été complétée par des éléments graphiques (dessins, collages, gommettes) et des textes."
+    Les participants ont contribué à l'étude en deux temps. Le premier, organisé en table ronde, a permi à chacune et chacun de s'exprimer sur la thématique choisie. Ensuite, chaque fresque a été complétée par des éléments graphiques (dessins, collages, gommettes) et des textes."
 carousels:
   - images:
       - url: /assets/images/phase2-QC2.webp
