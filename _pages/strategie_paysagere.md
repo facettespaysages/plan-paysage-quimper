@@ -55,43 +55,43 @@ feature_row_5:
       * la préservation des motifs bocagers pour garantir une infiltration de l'eau et un équilibre du cycle d'amont en aval."
 carousels:
   - images:
-      - url: /assets/images/phase2-QC1.jpg
+      - url: /assets/images/phase2-QC1.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-QC2.jpg
+      - url: /assets/images/phase2-QC2.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-QC3.jpg
-        width: 1000
-        height: 707
-  - images:
-      - url: /assets/images/phase2-QR1.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/phase2-QR2.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/phase2-QR3.jpg
+      - url: /assets/images/phase2-QC3.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/phase2-QI1.jpg
+      - url: /assets/images/phase2-QR1.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-QI2.jpg
+      - url: /assets/images/phase2-QR2.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-QI3.jpg
+      - url: /assets/images/phase2-QR3.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/phase2-fresque1.jpg
+      - url: /assets/images/phase2-QI1.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-fresque2.jpg
+      - url: /assets/images/phase2-QI2.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-fresque3.jpg
+      - url: /assets/images/phase2-QI3.webp
+        width: 1000
+        height: 707
+  - images:
+      - url: /assets/images/phase2-fresque1.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/phase2-fresque2.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/phase2-fresque3.webp
         width: 1000
         height: 707
 ---
