@@ -88,12 +88,6 @@ gallery:
     alt: "Frise chronologique"
     width: 1000
     height: 286
-feature_row_2:
-  - title: "Votre participation à la galerie photographique"
-    excerpt: " Partagez votre vision du territoire et envoyez nous des photos de vos lieux paysagers quimpérois favoris !"
-    url: "https://framaforms.org/un-plan-de-paysage-pour-quimper-1695744793"
-    btn_label: "Accéder au formulaire de participation"
-    btn_class: "btn--primary"
 ---
 {% include flickity.html %}
 
@@ -108,7 +102,6 @@ Calendrier de l'étude
 
 Ce plan de paysage est avant tout une étude contributive, où de nombreux temps d’échange ont été organisés tout au long de la démarche : d’octobre 2023 à juin 2025 !
 
-{% include feature_row id="feature_row_2" type="center" %}
 
 <script>
 
