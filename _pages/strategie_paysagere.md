@@ -118,10 +118,10 @@ carousels:
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/phase2-fresque1.jpg
+      - url: /assets/images/phase2-fresque1.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-fresque2.jpg
+      - url: /assets/images/phase2-fresque2.webp
         width: 1000
         height: 707
       - url: /assets/images/phase2-fresque3.webp
@@ -129,23 +129,23 @@ carousels:
         height: 707
 ---
 
-![diagramme_reflexion_strategie.png](/assets/images/Phase2-DD_AXE.png)
+![diagramme_reflexion_strategie.png](/assets/images/Phase2-DD_AXE.webp)
 
 {% include feature_row id="intro" type="center" %}
 
-![photo_quimper_confluente.png](/assets/images/Q1.png)
+![photo_quimper_confluente.png](/assets/images/Q1.webp)
 
 {% include feature_row id="feature_row_3" type="center" %}
 
 {% include flickity.html %}
 
-![photo_quimper_rayonnante.png](/assets/images/Q2.png)
+![photo_quimper_rayonnante.png](/assets/images/Q2.webp)
 
 {% include feature_row id="feature_row_4" type="center" %}
 
 {% include flickity_2.html %}
 
-![photo_quimper_inspirante.png](/assets/images/Q3.png)
+![photo_quimper_inspirante.png](/assets/images/Q3.webp)
 
 {% include feature_row id="feature_row_5" type="center" %}
 
