@@ -1,7 +1,7 @@
 <div class="carousel__holder">
   <div class="main-gallery js-flickity"
        data-flickity-options='{ "cellAlign": "center", "lazyLoad": 5, "pageDots": false, "fullscreen": true}'>
-    {% for item in page.carousels[0].images %}
+    {% for item in page.carousels[1].images %}
     <div class="carousel-cell">
       <img data-flickity-lazyload="{{item.url}}" alt="{{item.caption}}" width={{item.width}} height={{item.height}}>
       {% if item.caption %}

@@ -95,7 +95,7 @@ feature_row_2:
     btn_label: "Accéder au formulaire de participation"
     btn_class: "btn--primary"
 ---
-{% include flickity.html carousel=page.carousels[0] %}
+{% include flickity.html %}
 
 {% include feature_row id="intro" type="center" %}
 
