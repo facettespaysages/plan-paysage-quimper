@@ -61,11 +61,6 @@ intro:
   - excerpt: 'Le paysage est une notion à la fois subjective et objective. La convention européenne du paysage de 2000 le définit comme ce qui suit : "Le paysage est une partie de territoire tel que perçue par les populations, dont le caractère résulte de l’action de facteurs naturels et/ou humains et de leurs interrelations".
    <br>
    Le plan de paysage est un outil de planification permettant d’imaginer un territoire résilient face aux enjeux climatiques actuels et futurs. C’est une démarche participative, imaginée et élaborée avec l’ensemble des acteurs d’un territoire. Elle promeut la préservation, la restauration et la requalification des paysages.'
-  - title: "Objectif paysages"
-    excerpt: "Situer et suivre les démarches de plan de paysage à travers la France"
-    url: "https://objectif-paysages.developpement-durable.gouv.fr/carte-interactive-1"
-    btn_label: "Découvrir la carte interactive"
-    btn_class: "btn--primary"
 feature_row:
   - title: "Diagnostic"
     excerpt: "Description des unités paysagères qui constituent Quimper"
@@ -93,33 +88,9 @@ gallery:
 
 {% include feature_row id="intro" type="center" %}
 
-<div id="map"></div>
-
 {% include feature_row %}
 
 Calendrier de l'étude
 {% include gallery %}
 
 Ce plan de paysage est avant tout une étude contributive, où de nombreux temps d’échange ont été organisés tout au long de la démarche : d’octobre 2023 à juin 2025 !
-
-
-<script>
-var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '© OpenStreetMap'
-});
-
-var map = L.map('map', {
-    center: [47.99483, -4.08923],
-    zoom: 12,
-    layers: [osm]
-});
-
-{%- for unite in site.unites_paysageres -%}
-    {% if unite.location.latitude and unite.location.longitude %}
-        L.marker([ {{unite.location.latitude}}, {{unite.location.longitude}} ])
-         .bindPopup(L.popup({maxWidth:500}).setContent('{{unite.title}}<br><a href="{{ unite.url | relative_url }}">Détails</a>'))
-         .addTo(map);
-    {% endif %}
-{% endfor %}
-</script>
