@@ -26,11 +26,19 @@ jobs:
         uses: actions/checkout@v3
       - name: Install packages
         run: sudo apt-get install -y imagemagick webp parallel
+      - name: Auto-rotate images
+        run: |
+          find . -type f -iname "*.jpg" -print0 | while IFS= read -r -d '' file; do
+            orientation=$(identify -format "%[EXIF:Orientation]" "$file" 2>/dev/null)
+            if [ "$orientation" != "" ] && [ "$orientation" != "1" ]; then
+              mogrify -auto-orient "$file"
+            fi
+          done
       - name: Create thumbnails
         working-directory: ./assets/images
         run: ./create_thumbnails.sh
       - name: Create WebP
-        run: find . | egrep '.JPG|.jpeg|.jpg|.tiff|.tif|.png' | parallel --progress 'cwebp -quiet -af {} -o {.}.webp'
+        run: find . | egrep -i '.jpeg|.jpg|.tiff|.tif|.png' | parallel --progress 'cwebp -quiet -metadata all -af {} -o {.}.webp'
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
