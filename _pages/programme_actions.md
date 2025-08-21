@@ -9,27 +9,35 @@ intro:
     title: "Le programme d'actions"
     excerpt: |
       La dernière étape de l'étude consiste en la rédaction du plan d'action. 
+      <br>
+      <br>
       Il développe et définit les outils à mettre en place pour accompagner les politiques publiques dans l'évolution du territoire, 
       en tenant compte des faisabilités techniques et financières à engager et des acteurs concernés. 
       <br>
+      <br>
       Il propose une vision prospective de la commune de Quimper, donne des idées pour tendre vers une ville durable et résiliente. le programme d’actions est, à ce stade, un ensemble de propositions formulées pas nécessairement reprises à son compte par la collectivité. L’agenda et la feuille de route politique définiront les priorités à mener dans la préservation, la restauration, la transformation des paysages quimpérois.
+      <br>
       <br>
       A l'issue de cette phase de travail, une restitution finale est organisée autour d'un évènement festif : le goûterritoire ! N'hésitez pas à vous y inscrire !
 feature_row_3:
   - title: "Les fiches actions tranversvales"
     excerpt: "
     Suite à la rédaction et à la définition de la stratégie de qualité paysagère, les trois axes de réflexion ont été détaillés et illustrés par un pannel d’actions de différentes natures : réglementaires, pré-opérationnelles et opérationnelles.
+    <br>
+    <br>
     Pour imaginer Quimper demain et aider à la mise en oeuvre opérationnelle des idées partagées, ces fiches actions sont déclinées suivant les objectifs de qualité paysagère."
 feature_row_4:
   - title: "Les fiches actions opérationnelles"
     excerpt: "
     En complémentarité de ces fiches actions transversales, agissant comme des notes chapeaux, le plan de paysage est traduit par neuf fiches actions opérationnelles portant sur des sites représentatifs de la diversité des paysages et des problématiques paysagères. 
     <br>
-    Qu’on se trouve au bord de l’Odet ou en entrée de ville à Ty Bos, les objectifs à atteindre portent à la fois sur les mobilités, la place du végétal et de l’eau, la qualité et l'occupation des sols ainsi que la diversité d’usages actuels et désirés. A travers ces fiches actions, vous pourrez vous imerger dans les projections réalisées sur quatre sites différents : Tréqueffelec et le vallon de Patérour, la place de la Tourbie, la voie verte, les rives du fleuve."
+    <br>
+    Qu’on se trouve au bord de l’Odet ou en entrée de ville à Ty Bos, les objectifs à atteindre portent à la fois sur les mobilités, la place du végétal et de l’eau, la qualité et l'occupation des sols ainsi que la diversité d’usages actuels et désirés. A travers les fiches actions ci-dessous, vous pourrez vous imerger dans les projections réalisées sur quatre sites différents : la place de la Tourbie, l'avenue de la France Libre et le bois sans nom, la voie verte de Penhars, la route de Concarneau à Ty Bos."
 feature_row_5:
   - title: "L'atelier des possibles"
     excerpt: "
     Un travail de concertation sur table a été mené avec les habitants pour écrire et développer des projets adaptés à leurs besoins, sur différents sites préalablement identifiés avec la ville de Quimper et ses partenaires.
+    <br>
     <br>
     A l’occasion d’un atelier des possibles organisé en mars 2025, les idées foisonnantes ont permis d’aboutir à la rédaction de quatre fiches actions opérationnelles sur les sites suivants : la confluence entre le Jet et l’Odet, l’Avenue Yves Thépot et les abords du centre hospitalier, Tréqueffelec et le vallon de Patérour, les allées de Locmaria, les rives du fleuve."
 carousels:
@@ -194,7 +202,7 @@ carousels:
 
 {% include feature_row id="feature_row_3" type="center" %}
 
-![cartographie des sites pilotes.jpg](/assets/images/phase3-1)
+![cartographie des sites pilotes.jpg](/assets/images/phase3-1.jpg)
 
 {% include feature_row id="feature_row_4" type="center" %}
 
