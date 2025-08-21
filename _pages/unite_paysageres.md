@@ -576,12 +576,15 @@ carousels:
 
 {% include feature_row id="feature_row_3" type="center" %}
 
-{% include flickity.html carousel=page.carousels[0] %}
+{% assign carousel = page.carousels[0] %}
+{% include flickity.html carousel=carousel %}
 
 {% include feature_row id="feature_row_4" type="center" %}
 
-{% include flickity.html carousel=page.carousels[1] %}
+{% assign carousel = page.carousels[1] %}
+{% include flickity.html carousel=carousel %}
 
 {% include feature_row id="feature_row_5" type="center" %}
 
-{% include flickity.html carousel=page.carousels[2] %}
+{% assign carousel = page.carousels[2] %}
+{% include flickity.html carousel=carousel %}

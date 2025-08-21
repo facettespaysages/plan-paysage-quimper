@@ -21,39 +21,39 @@ carousels:
       caption: "Ancienne voie ferrée désaffectée reliant Pont-l'Abbé à Quimper"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis3_kerbenez.webp
+    - url: /assets/images/home/croquis3_kerbenez.webp
       caption: "Voie privée menant au château de Kerbenez"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis4_moulinvert.webp
+    - url: /assets/images/home/croquis4_moulinvert.webp
       caption: "Ouverture du Steïr dans le quartier du Moulin Vert"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis4_routearbrechapon.webp
+    - url: /assets/images/home/croquis4_routearbrechapon.webp
       caption: "Alignement remarquable de Hêtres sur la route de l'Arbre au Chapon"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis5_stangala.webp
+    - url: /assets/images/home/croquis5_stangala.webp
       caption: "Belvédère sur les gorges de l'Odet au Stangala"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis6_frugy.webp
+    - url: /assets/images/home/croquis6_frugy.webp
       caption: "Ouverture visuelle sur la vallée du Steïr depuis le Mont Frugy"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis7_frugy.webp
+    - url: /assets/images/home/croquis7_frugy.webp
       caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis8_frugy.webp
+    - url: /assets/images/home/croquis8_frugy.webp
       caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis8_lineostic.webp
+    - url: /assets/images/home/croquis8_lineostic.webp
       caption: "Depuis le nouveau quartier Liénostic, perspective sur le plateau bocager sud"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis9_troyalach.webp
+    - url: /assets/images/home/croquis9_troyalach.webp
       caption: "Entrée de ville de Troyalac'h"
       width: 1000
       height: 707
@@ -95,7 +95,8 @@ feature_row_2:
     btn_label: "Accéder au formulaire de participation"
     btn_class: "btn--primary"
 ---
-{% include flickity.html carousel=page.carousels[0] %}
+{% assign carousel = page.carousels[0] %}
+{% include flickity.html carousel=carousel %}
 
 {% include feature_row id="intro" type="center" %}
 
