@@ -71,16 +71,12 @@ feature_row_5:
       <br>
       Qu'on se trouve en amont de la confluence sur le plateau agricole, ou dans les quartiers habités de Prat-Maria et Ergué-Armel, le maintien des sols est un enjeu considérable participant à l'élaboration d'une trame Glaz structurante à l'échelle de Quimper et au-delà des limites communales.
       <br>
+      <br>
       En fonction des sous-sols en place et des potentialités urbaines à venir, l'étude affinée des sols est décisive dans les orientations d'aménagement, avec une attention toute particulière devant porter sur :
-      <br>
       la restauration des sols pollués et leur traitement à l'échelle locale,
-      <br>
       la renaturation des sols en place avec des recherches appliquées sur la qualité agronomique et biologique des sols pour une utilisation dans l'aménagement des espaces publics structurants,
-      <br>
       la sobriété foncière et perméable avec une mutualisation des espaces extérieurs pour une diversité d'usages en fonction de la journée, de la semaine, des saisons,
-      <br>
       l'adaptation des végétaux aux conditions locales et une recherche d'homogénéité dans la qualification des limites privées,
-      <br>
       la préservation des motifs bocagers pour garantir une infiltration de l'eau et un équilibre du cycle d'amont en aval."
 feature_row_6:
   - title: "Les fresques paysagères"
@@ -92,40 +88,40 @@ feature_row_6:
     Les participants ont contribué à l'étude en deux temps. Le premier, organisé en table ronde, a permi à chacune et chacun de s'exprimer sur la thématique choisie. Ensuite, chaque fresque a été complétée par des éléments graphiques (dessins, collages, gommettes) et des textes."
 carousels:
   - images:
+      - url: /assets/images/phase2-QC1.jpg
+        width: 1000
+        height: 707
       - url: /assets/images/phase2-QC2.webp
         width: 1000
         height: 707
       - url: /assets/images/phase2-QC3.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-QC1.webp
+  - images:
+      - url: /assets/images/phase2-QR3.webp
         width: 1000
         height: 707
-  - images:
       - url: /assets/images/phase2-QR1.webp
         width: 1000
         height: 707
       - url: /assets/images/phase2-QR2.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-QR3.webp
+  - images:
+      - url: /assets/images/phase2-QI3.webp
         width: 1000
         height: 707
-  - images:
       - url: /assets/images/phase2-QI1.webp
         width: 1000
         height: 707
       - url: /assets/images/phase2-QI2.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase2-QI3.webp
-        width: 1000
-        height: 707
   - images:
-      - url: /assets/images/phase2-fresque1.webp
+      - url: /assets/images/phase2-fresque1.jpg
         width: 1000
         height: 707
-      - url: /assets/images/phase2-fresque2.webp
+      - url: /assets/images/phase2-fresque2.jpg
         width: 1000
         height: 707
       - url: /assets/images/phase2-fresque3.webp
