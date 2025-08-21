@@ -137,20 +137,20 @@ carousels:
 
 {% include feature_row id="feature_row_3" type="center" %}
 
-{% include flickity.html %}
+{% include flickity.html carousel=page.carousels[0] %}
 
 ![photo_quimper_rayonnante.png](/assets/images/Q2.webp)
 
 {% include feature_row id="feature_row_4" type="center" %}
 
-{% include flickity_2.html %}
+{% include flickity.html carousel=page.carousels[1] %}
 
 ![photo_quimper_inspirante.png](/assets/images/Q3.webp)
 
 {% include feature_row id="feature_row_5" type="center" %}
 
-{% include flickity_3.html %}
+{% include flickity.html carousel=page.carousels[2] %}
 
 {% include feature_row id="feature_row_6" type="center" %}
 
-{% include flickity_4.html %}
+{% include flickity.html carousel=page.carousels[3] %}
