@@ -4,7 +4,7 @@ permalink: /concertation/
 title:  "Concertation sur table"
 seo_title: "Rendez-vous le samedi 22 mars 2025 pour dessiner l'avenir quimpérois !"
 header:
-  overlay_image: /assets/images/concertation.jpg
+  overlay_image: /assets/images/concertation.webp
   overlay_filter: 0.5
 excerpt: "Rendez-vous le samedi 22 mars 2025 !"
 ---

@@ -88,7 +88,7 @@ feature_row_6:
     Les participants ont contribué à l'étude en deux temps. Le premier, organisé en table ronde, a permi à chacune et chacun de s'exprimer sur la thématique choisie. Ensuite, chaque fresque a été complétée par des éléments graphiques (dessins, collages, gommettes) et des textes."
 carousels:
   - images:
-      - url: /assets/images/phase2-QC1.jpg
+      - url: /assets/images/phase2-QC1.webp
         width: 1000
         height: 707
       - url: /assets/images/phase2-QC2.webp

@@ -42,156 +42,156 @@ feature_row_5:
     A l’occasion d’un atelier des possibles organisé en mars 2025, les idées foisonnantes ont permis d’aboutir à la rédaction de quatre fiches actions opérationnelles sur les sites suivants : la confluence entre le Jet et l’Odet, l’Avenue Yves Thépot et les abords du centre hospitalier, Tréqueffelec et le vallon de Patérour, les allées de Locmaria, les rives du fleuve."
 carousels:
   - images:
-      - url: /assets/images/phase3-2.jpg
+      - url: /assets/images/phase3-2.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase3-3.jpg
+      - url: /assets/images/phase3-3.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase3-4.jpg
+      - url: /assets/images/phase3-4.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase3-5.jpg
+      - url: /assets/images/phase3-5.webp
         width: 1000
         height: 707
-      - url: /assets/images/phase3-6.jpg
-        width: 1000
-        height: 707
-  - images:
-      - url: /assets/images/autres/phase3-autres-1.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-2.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-3.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-4.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-5.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-6.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-7.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-8.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-9.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-10.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-11.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-12.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-13.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-14.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-15.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-16.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-17.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-18.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-19.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/autres/phase3-autres-20.jpg
+      - url: /assets/images/phase3-6.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/concertation/phase3-concert-1.jpg
+      - url: /assets/images/autres/phase3-autres-1.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-2.jpg
+      - url: /assets/images/autres/phase3-autres-2.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-3.jpg
+      - url: /assets/images/autres/phase3-autres-3.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-4.jpg
+      - url: /assets/images/autres/phase3-autres-4.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-5.jpg
+      - url: /assets/images/autres/phase3-autres-5.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-6.jpg
+      - url: /assets/images/autres/phase3-autres-6.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-7.jpg
+      - url: /assets/images/autres/phase3-autres-7.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-8.jpg
+      - url: /assets/images/autres/phase3-autres-8.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-9.jpg
+      - url: /assets/images/autres/phase3-autres-9.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-10.jpg
+      - url: /assets/images/autres/phase3-autres-10.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-11.jpg
+      - url: /assets/images/autres/phase3-autres-11.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-12.jpg
+      - url: /assets/images/autres/phase3-autres-12.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-13.jpg
+      - url: /assets/images/autres/phase3-autres-13.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-14.jpg
+      - url: /assets/images/autres/phase3-autres-14.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-15.jpg
+      - url: /assets/images/autres/phase3-autres-15.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-16.jpg
+      - url: /assets/images/autres/phase3-autres-16.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-17.jpg
+      - url: /assets/images/autres/phase3-autres-17.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-18.jpg
+      - url: /assets/images/autres/phase3-autres-18.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-19.jpg
+      - url: /assets/images/autres/phase3-autres-19.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-20.jpg
+      - url: /assets/images/autres/phase3-autres-20.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-21.jpg
+  - images:
+      - url: /assets/images/concertation/phase3-concert-1.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-22.jpg
+      - url: /assets/images/concertation/phase3-concert-2.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-23.jpg
+      - url: /assets/images/concertation/phase3-concert-3.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-24.jpg
+      - url: /assets/images/concertation/phase3-concert-4.webp
         width: 1000
         height: 707
-      - url: /assets/images/concertation/phase3-concert-25.jpg
+      - url: /assets/images/concertation/phase3-concert-5.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-6.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-7.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-8.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-9.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-10.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-11.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-12.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-13.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-14.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-15.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-16.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-17.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-18.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-19.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-20.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-21.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-22.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-23.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-24.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/concertation/phase3-concert-25.webp
         width: 1000
         height: 707
 ---
@@ -202,7 +202,7 @@ carousels:
 
 {% include feature_row id="feature_row_3" type="center" %}
 
-![cartographie des sites pilotes.jpg](/assets/images/phase3-1.jpg)
+![cartographie des sites pilotes.webp](/assets/images/phase3-1.webp)
 
 {% include feature_row id="feature_row_4" type="center" %}
 

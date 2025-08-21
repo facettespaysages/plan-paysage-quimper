@@ -4,7 +4,7 @@ permalink: /fresque_paysagere/
 title:  "La fresque paysagère"
 seo_title: "Rendez-vous le samedi 16 novembre 2024 pour dessiner l'avenir quimpérois !"
 header:
-  overlay_image: /assets/images/fresque2.jpg
+  overlay_image: /assets/images/fresque2.webp
   overlay_filter: 0.5
 excerpt: "Rendez-vous le samedi 16 novembre 2024 !"
 ---
