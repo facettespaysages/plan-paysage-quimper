@@ -55,13 +55,13 @@ feature_row_5:
       * la préservation des motifs bocagers pour garantir une infiltration de l'eau et un équilibre du cycle d'amont en aval."
 carousels:
   - images:
-      - url: /assets/images/phase2-QC1.webp
-        width: 1000
-        height: 707
       - url: /assets/images/phase2-QC2.webp
         width: 1000
         height: 707
       - url: /assets/images/phase2-QC3.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/phase2-QC1.webp
         width: 1000
         height: 707
   - images:
