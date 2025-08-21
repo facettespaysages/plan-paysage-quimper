@@ -9,51 +9,51 @@ header:
 excerpt: "Une démarche volontaire lancée par la ville de Quimper, qui invite les habitants et acteurs de son territoire à porter un nouveau regard sur sa géographie, ses ressources et ses fonctionnalités pour en préserver ses qualités et restaurer ses paysages. Imaginer ensemble Quimper demain !"
 carousels:
   - images:
-    - url: /assets/images/thumbnails/home/croquis1_baie_odet.webp
+    - url: /assets/images/home/croquis1_baie_odet.webp
       caption: "Baie de l'Odet depuis Creac'h Gwen"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis2_kervalguen_2.webp
+    - url: /assets/images/home/croquis2_kervalguen_2.webp
       caption: "Nouveau quartier de Kervalguen"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis2_kervalguen.webp
+    - url: /assets/images/home/croquis2_kervalguen.webp
       caption: "Ancienne voie ferrée désaffectée reliant Pont-l'Abbé à Quimper"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis3_kerbenez.webp
+    - url: /assets/images/home/croquis3_kerbenez.webp
       caption: "Voie privée menant au château de Kerbenez"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis4_moulinvert.webp
+    - url: /assets/images/home/croquis4_moulinvert.webp
       caption: "Ouverture du Steïr dans le quartier du Moulin Vert"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis4_routearbrechapon.webp
+    - url: /assets/images/home/croquis4_routearbrechapon.webp
       caption: "Alignement remarquable de Hêtres sur la route de l'Arbre au Chapon"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis5_stangala.webp
+    - url: /assets/images/home/croquis5_stangala.webp
       caption: "Belvédère sur les gorges de l'Odet au Stangala"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis6_frugy.webp
+    - url: /assets/images/home/croquis6_frugy.webp
       caption: "Ouverture visuelle sur la vallée du Steïr depuis le Mont Frugy"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis7_frugy.webp
+    - url: /assets/images/home/croquis7_frugy.webp
       caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis8_frugy.webp
+    - url: /assets/images/home/croquis8_frugy.webp
       caption: "Ouverture visuelle sur le centre-ville depuis le Mont Frugy"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis8_lineostic.webp
+    - url: /assets/images/home/croquis8_lineostic.webp
       caption: "Depuis le nouveau quartier Liénostic, perspective sur le plateau bocager sud"
       width: 1000
       height: 707
-    - url: /assets/images/thumbnails/home/croquis9_troyalach.webp
+    - url: /assets/images/home/croquis9_troyalach.webp
       caption: "Entrée de ville de Troyalac'h"
       width: 1000
       height: 707
