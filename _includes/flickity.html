@@ -31,7 +31,14 @@
 
   .carousel.is-fullscreen .carousel-cell {
     height: 100%;
+  }
+
+  .carousel__holder.is-fullscreen {
     z-index: 11;
+  }
+
+  .flickity-enabled.is-fullscreen ~ .footer__wrapper {
+    display: none !important;
   }
 
   .carousel-cell img {
