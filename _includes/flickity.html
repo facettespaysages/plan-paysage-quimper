@@ -37,9 +37,9 @@
     z-index: 11;
   }
 
-  /* Hide other elements that might interfere */
-  html.is-flickity-fullscreen body > *:not(.carousel__holder) {
-    z-index: 1 !important;
+  html.is-flickity-fullscreen .page__footer,
+  html.is-flickity-fullscreen .masthead {
+    display: none !important;
   }
 
   .carousel-cell img {
